@@ -3,10 +3,10 @@
   contents:
     - title: Master of Software Engineering
       institution: Zhejiang University
-      year: Sep. 2022 - Mar. 2025 (expected)
+      year: 2022.09 - 2025.03
     - title: Bachelor of Computer Science
       institution: Southwest Jiao Tong University
-      year: Sep. 2018 - Jun. 2022
+      year: 2018.09 - 2022.06
 
 
 - title: Services
@@ -14,12 +14,14 @@
   contents:
     - title: Sub-Reviewer
       items:
-        - 2024: TOSEM, FCS, 软件学报
-        - 2023: MSR, 计算机学报
-    - title: Student Volunteer, Internetware 2023
+        - <u>2024:</u> TOSEM, FCS, 软件学报
+        - <u>2023:</u> MSR, 计算机学报
+    - title: Volunteer
+      items:
+        - Internetware 2023
 
 
 - title: Honors and Awards
   type: list
   contents:
-  - test_item
+  - ACM SIGSOFT Distinguished Paper Award, ACM SIGSOFT, 2024
