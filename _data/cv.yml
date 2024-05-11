@@ -1,47 +1,25 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Martin Bulla
-    - name: Date of Birth
-      value: 31st August 1981
-    - name: Languages
-      value: English, German, Czech <em>native</em>, Slovak, Russian <em>basic</em>
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Postdoc
-      institution: Max Planck Institute for Biological Intelligence, Germany
-      year: 2023 - present
-    - title: Postdoc
-      institution: Czech University of Life Sciences Prague, Czechia
-      year: 2017 - present  
-    - title: Postdoc
-      institution: Max Planck Institute for Ornithology, Germany
-      year: 2019 - 2022
-    - title: Postdoc
-      institution: NIOZ Royal Netherlands Institute for Sea Research, the Netherlands
-      year: 2016 - 2019
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: Max Planck Institute for Ornithology, Seewiesen
-      year: 2017
-    - title: MSc
-      institution: Uni. of Natural Resources & Applied Life Sciences, Vienna
-      year: 2010
-    - title: Mgr
-      institution: Charles University, Prague
-      year: 2006
-    - title: BSc
-      institution: State University of New York, Prague
-      year: 2004
-    - title: Graduation
-      institution: Gymnasium Arabska, Prague
-      year: 2000  
-    - title: Graduation
-      institution: Kendall Senior High School, United States
-      year: 1999  
+    - title: Master of Software Engineering
+      institution: Zhejiang University
+      year: Sep. 2022 - Mar. 2025 (expected)
+    - title: Bachelor of Computer Science
+      institution: Southwest Jiao Tong University
+      year: Sep. 2018 - Jun. 2022
+
+
+- title: Services
+  type: nested_list
+  contents:
+    - title: Sub-Reviewer
+      items:
+        - 2024: TOSEM, FCS, 软件学报
+        - 2023: MSR, 计算机学报
+    - title: Student Volunteer, Internetware 2023
+
+
+- title: Honors and Awards
+  type: list
+  contents:
+  - test_item
