@@ -19,4 +19,4 @@ social: false  # includes social icons at the bottom of the page
 
 I am a master student at School of Software Technology, Zhejiang University. 
 
-I am very fortunate to work under the supervision of Prof. [Xing Hu](https://xing-hu.github.io/) and Prof. [Xin Xia](https://xin-xia.github.io/). My research mainly focuses on building more general, reliable and accessiable AI systems for software engineering.
+I am very fortunate to work under the supervision of Prof. [Xing Hu](https://xing-hu.github.io/) and Prof. [Xin Xia](https://xin-xia.github.io/). My research mainly focuses on building more general, reliable, and accessible AI systems for software engineering.
