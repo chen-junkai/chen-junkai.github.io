@@ -1,10 +1,10 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master in Software Engineering
+    - title: M.Eng. in Software Engineering
       institution: Zhejiang University
-      year: 2022.09 - 2025.03
-    - title: Bachelor in Computer Science and Technology
+      year: 2022.09 - Present
+    - title: B.Eng. in Computer Science and Technology
       institution: Southwest Jiao Tong University
       year: 2018.09 - 2022.06
 
@@ -14,14 +14,15 @@
   contents:
     - title: Sub-Reviewer
       items:
-        - "2024: TOSEM, FCS, 软件学报"
-        - "2023: MSR, 计算机学报"
+        - "2024: ACM Transactions on Software Engineering and Methodology (TOSEM), Frontiers of Computer Science (FCS), Journal of Software (in Chinese)"
+        - "2023: Mining Software Repositories (MSR), Chinese Journal of Computers"
     - title: Volunteer
       items:
-        - Internetware 2023
+        - "2023: Internetware"
 
 
 - title: Honors and Awards
   type: list
   contents:
   - ACM SIGSOFT Distinguished Paper Award, ACM SIGSOFT, 2024
+  - Outstanding Undergraduates of Sichuan Province, 2022
