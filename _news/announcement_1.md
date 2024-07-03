@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper about evaluation for code LLMs is accepted by ICSE 2025.
+🥰 Our paper about utilizing runtime behavior of program to evaluate LLMs is accepted by ICSE 2025 ~
