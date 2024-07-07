@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a master's student at School of Software Technology, Zhejiang University. 
+I am a master's student at School of Software Technology, Zhejiang University.
 
 I am very fortunate to work under the supervision of [Prof. Xing Hu](https://xing-hu.github.io/) and [Prof. Xin Xia](https://xin-xia.github.io/). My research aims to build more general, reliable, and accessible AI systems for software engineering.
 

@@ -64,8 +64,6 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
-    <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=58716d1imzf&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
-    
     <!-- Social -->
     {% if page.social %}
       <div class="social">
@@ -74,6 +72,14 @@ layout: default
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
     {% endif %}
+
+    <div style="display:inline-block;width:200px;">
+      <script
+        type="text/javascript"
+        src="//rf.revolvermaps.com/0/0/7.js?i=5xst7b98uan&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0"
+        async="async"
+      ></script>
+    </div>
 
     {% if site.newsletter.enabled and site.footer_fixed %}
       {% include scripts/newsletter.liquid center=true %}
