@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello you! I am **Junkai** Chen (陈 **俊凯**), currently a master's student at [School of Software Technology](http://www.cst.zju.edu.cn/cstenglish/main.htm), [Zhejiang University](https://www.zju.edu.cn/english).
+Hello you! I am Junkai **Chen** (**陈** 俊凯), currently a master's student at [School of Software Technology](http://www.cst.zju.edu.cn/cstenglish/main.htm), [Zhejiang University](https://www.zju.edu.cn/english).
 
 I feel very lucky to have [Prof. Xing Hu](https://xing-hu.github.io/) as my supervisor, which makes this journey incredibly rewarding and meaningful to me. Besides, I am also grateful for the generous support and guidance from [Dr. Xin Xia](https://xin-xia.github.io/).
 
