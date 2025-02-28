@@ -11,8 +11,8 @@ In the era of artificial intelligence, every single detail in software developme
 
 ***
 
-# Publication
-An up-to-date list may be found at [Google Scholar](https://scholar.google.com/citations?user=vm05-t0AAAAJ&hl=zh-CN). 
+# Selected Publications
+Refer to [Google Scholar](https://scholar.google.com/citations?user=vm05-t0AAAAJ&hl=zh-CN) for the full list.
 
 - [**Reasoning Runtime Behavior of a Program with LLM: How Far Are We?**](https://arxiv.org/pdf/2403.16437.pdf)   
 **Junkai Chen\***, Zhiyuan Pan\*, Xing Hu, Zhenhao Li, Ge Li, and Xin Xia.\
@@ -22,14 +22,14 @@ ICSE 2025.
 - [**Code Search is All You Need? Improving Code Suggestions with Code Search**](https://ginolzh.github.io/papers/ICSE2024_Code_Suggestion.pdf)
 **Junkai Chen**, Xing Hu, Zhenhao Li, Cuiyun Gao, Xin Xia, and David Lo.\
 ICSE 2024.\
-**ACM SIGSOFT Distinguished Paper Award.** 
+🏆**ACM SIGSOFT Distinguished Paper Award.** 
 
 
 \* denotes equal contribution.
 
 ***
 
-# Service
+# Services
 ### Program Committee / Conference Reviewer
 - 2025: MSR (Junior PC), DL4C@ICLR, LTB@ICPE
 
@@ -39,7 +39,7 @@ ICSE 2024.\
 
 ***
 
-# Experience
+# Experiences
 - Singapore Management University (Jan. 2025 - present)
     - Research Engineer
     - Advisor: [David Lo](https://scholar.google.com/citations?hl=en&user=Ra4bt-oAAAAJ&view_op=list_works&citft=1&email_for_op=746523358%40qq.com&gmla=AJsN-F5z4AxmsLXBbMoKA2jO2lDgIWpg65Mw_KzLpsWCfIBHj15dWi8Jh6yf3SHbhzN_FiYntwP1-z8Z34AixOqghekuM793HBxrMxTtJDSzX9vxUEdZ66x_G_Zn6d9-lMIwNScx0s3lEAU-tae4EDZw2MrezTiFZImJ7aGuDgm37mA8rPjKCq9BJUDXywmQsFsnCL42S5bVuTjAkKROA1SIL-NFU8_cZkJ3IoyeqyUFDMUXWGv0w3c)
