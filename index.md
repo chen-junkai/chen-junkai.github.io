@@ -11,7 +11,7 @@ In the era of artificial intelligence, every single detail in software developme
 
 ***
 
-# Selected Publications
+# Publications
 Refer to [Google Scholar](https://scholar.google.com/citations?user=vm05-t0AAAAJ&hl=zh-CN) for the full list.
 
 - [**Reasoning Runtime Behavior of a Program with LLM: How Far Are We?**](https://arxiv.org/pdf/2403.16437.pdf)   
@@ -22,7 +22,7 @@ ICSE 2025.
 - [**Code Search is All You Need? Improving Code Suggestions with Code Search**](https://ginolzh.github.io/papers/ICSE2024_Code_Suggestion.pdf)
 **Junkai Chen**, Xing Hu, Zhenhao Li, Cuiyun Gao, Xin Xia, and David Lo.\
 ICSE 2024.\
-🏆**ACM SIGSOFT Distinguished Paper Award.** 
+🏆 **ACM SIGSOFT Distinguished Paper Award.** 
 
 
 \* denotes equal contribution.
