@@ -8,7 +8,8 @@ classes: wide
 published: false
 ---
 An up-to-date list may be found at [Google Scholar](https://scholar.google.com/citations?user=NsuX8R8AAAAJ&hl=en) 
-- **Representing Partial Programs with Blended Abstract Semantics.**  
+
+<!-- - **Representing Partial Programs with Blended Abstract Semantics.**  
 **Maxwell Nye**, Yewen Pu, Matthew Bowers, Jacob Andreas, Josh Tenenbaum, Armando Solar-Lezama.  
 ICLR 2021. [paper](https://arxiv.org/pdf/2012.12964.pdf)  
 Also presented at [NeurIPS 2020 Workshop on Computer-Assisted Programming](https://capworkshop.github.io/). 
@@ -38,6 +39,6 @@ UAI 2018, oral presentation. [paper](https://arxiv.org/pdf/1807.08919.pdf) [code
 
 - **Are Efficient Deep Representations Learnable?**  
 **Maxwell Nye**, Andrew Saxe.  
-ICLR 2018, workshop. [paper](https://arxiv.org/pdf/1807.06399.pdf)
+ICLR 2018, workshop. [paper](https://arxiv.org/pdf/1807.06399.pdf) -->
 
-*equal contribution
+* denotes equal contribution
