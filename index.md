@@ -12,13 +12,14 @@ In the era of artificial intelligence, every single detail in software developme
 ## Publications
 An up-to-date list may be found at [Google Scholar](https://scholar.google.com/citations?user=vm05-t0AAAAJ&hl=zh-CN)  
 
-**Reasoning Runtime Behavior of a Program with LLM: How Far Are We?**  
+- **Reasoning Runtime Behavior of a Program with LLM: How Far Are We?**  
 **Junkai Chen\***, Zhiyuan Pan\*, Xing Hu, Zhenhao Li, Ge Li, and Xin Xia.
 ICSE 2025. 
 [paper](https://arxiv.org/pdf/2403.16437.pdf) 
 
-**Code Search is All You Need? Improving Code Suggestions with Code Search**  
-**Junkai Chen**, Xing Hu, Zhenhao Li, Cuiyun Gao, Xin Xia, David Lo
+
+- **Code Search is All You Need? Improving Code Suggestions with Code Search**  
+**Junkai Chen**, Xing Hu, Zhenhao Li, Cuiyun Gao, Xin Xia, and David Lo.
 ICSE 2024. **ACM SIGSOFT Distinguished Paper Award.** 
 [paper](https://ginolzh.github.io/papers/ICSE2024_Code_Suggestion.pdf)
 
