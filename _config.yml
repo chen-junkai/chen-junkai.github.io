@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Junkai Chen  "
-  avatar           : "/assets/images/biopic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # "/assets/images/biopic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Singapore, SG"
   email            : "junkaichen2000@gmail.com"
