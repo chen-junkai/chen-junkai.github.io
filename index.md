@@ -9,6 +9,8 @@ I am also a master's student at [School of Software Technology](http://www.cst.z
 In the era of artificial intelligence, every single detail in software development and mainteinance is being revisited and reshaped by novel technologies like large language models. In response, my research aims to **build more effective, efficient, and reliable AI systems for software engineering**, ultimately moving towards fully automated software engineering and creating a world defined by ubiquitous software.
 
 
+***
+
 # Publication
 An up-to-date list may be found at [Google Scholar](https://scholar.google.com/citations?user=vm05-t0AAAAJ&hl=zh-CN). 
 
@@ -25,7 +27,7 @@ ICSE 2024.\
 
 \* denotes equal contribution.
 
-
+***
 
 # Service
 ### Program Committee / Conference Reviewer
@@ -35,7 +37,7 @@ ICSE 2024.\
 - External Reviewer: TOSEM, FSE, ASE, MSR, FCS, JSS (Chinese), etc.
 - Student Volunteer: Internetware 2023
 
-
+***
 
 # Experience
 - Singapore Management University (Jan. 2025 - present)
