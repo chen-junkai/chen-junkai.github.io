@@ -20,7 +20,7 @@ ICSE 2025.
 - [**Code Search is All You Need? Improving Code Suggestions with Code Search**](https://ginolzh.github.io/papers/ICSE2024_Code_Suggestion.pdf) \
 **Junkai Chen**, Xing Hu, Zhenhao Li, Cuiyun Gao, Xin Xia, and David Lo.\
 🏆 **ACM SIGSOFT Distinguished Paper Award.** \
-ICSE 2024.\
+ICSE 2024.
 
 
 \* denotes equal contribution.
@@ -30,7 +30,7 @@ ICSE 2024.\
 
 # Awards
 - ACM SIGSOFT Distinguished Paper Award, ACM SIGSOFT, 2024
-- National Scholarship, Ministry of Education of P.R.C.
+- National Scholarship, Ministry of Education of P.R.C., 2024
 
 ***
 
