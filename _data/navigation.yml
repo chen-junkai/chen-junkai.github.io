@@ -1,0 +1,20 @@
+# main links
+main:
+  # - title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Google Scholar"
+  #  url: https://scholar.google.com/citations?user=NsuX8R8AAAAJ&hl=en
+  - title: "News"
+    url: \#news
+  - title: "Publications"
+    url: \#publications
+  - title: "Awards"
+    url: \#awards
+  - title: "Services"
+    url: \#services
+  - title: "Experiences"
+    url: \#experiences
+  # - title: "Blog" #Max's blog, already finished, just unpublished
+  #  url: /blog/
+  # - title: "Sitemap"
+  #   url: /sitemap/
