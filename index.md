@@ -2,9 +2,10 @@
 layout: single
 author_profile: true
 ---
-Hello you! I am Junkai **Chen** (**陈** 俊凯), working as a Research Engineer in the [Software Analytics Research Group](https://soarsmu.github.io/) of [Singapore Management University](https://www.smu.edu.sg/), advised by [Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/). I am also a master's student at [School of Software Technology](http://www.cst.zju.edu.cn/cstenglish/main.htm), [Zhejiang University](https://www.zju.edu.cn/english). I feel very lucky to have [Prof. Xing Hu](https://xing-hu.github.io/) as my supervisor, which makes this journey incredibly rewarding and meaningful to me. I am also grateful for the generous support and guidance from [Dr. Xin Xia](https://xin-xia.github.io/).
 
-In the era of AI, every detail in software engineering is being revisited and reshaped by novel technologies like large language models. In response, my research aims to **build more effective, efficient, and reliable AI systems for software engineering**, ultimately moving towards fully automated software engineering and creating a world defined by ubiquitous software.
+I am Junkai **Chen** (**陈**俊凯), an incoming Ph.D. student at [Singapore Management University](https://www.smu.edu.sg/), advised by [Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/). I received my master's degree at [Zhejiang University](https://www.zju.edu.cn/english), where I was advised by [Prof. Xing Hu](https://xing-hu.github.io/) and [Prof. Xin Xia](https://xin-xia.github.io). 
+
+My research interests are generally about the intersection of Software Engineering and Artificial Intelligence.
 
 
 ***
@@ -68,7 +69,7 @@ In the era of AI, every detail in software engineering is being revisited and re
 
 
 # Awards
-- ACM SIGSOFT Distinguished Paper Award, ACM SIGSOFT, 2024
+- <span style="color: darkred; font-weight: bold;">ACM SIGSOFT Distinguished Paper Award.</span>, ACM SIGSOFT, 2024
 - National Scholarship, Ministry of Education of P.R.C., 2024
 - ACM SIGSOFT CAPS Travel Grant, 2025
 
@@ -79,15 +80,16 @@ In the era of AI, every detail in software engineering is being revisited and re
 - 2025: MSR (Junior PC), DL4C@ICLR, LTB@ICPE
 
 ### Others
-- External Reviewer: TOSEM, FSE, ASE, MSR, FCS, JSS (Chinese), etc.
+- External Reviewer: ICSE, FSE, ASE, TOSEM, MSR, FCS, JSS (Chinese), etc.
 - Student Volunteer: Internetware 2023
 
 ***
 
 # Experiences
+- Ph.D. Student, Singapore Management University, Aug. 2025 - present
 - Research Engineer, Singapore Management University, Jan. 2025 - present
-    - Advisor: [David Lo](https://scholar.google.com/citations?hl=en&user=Ra4bt-oAAAAJ&view_op=list_works&citft=1&email_for_op=746523358%40qq.com&gmla=AJsN-F5z4AxmsLXBbMoKA2jO2lDgIWpg65Mw_KzLpsWCfIBHj15dWi8Jh6yf3SHbhzN_FiYntwP1-z8Z34AixOqghekuM793HBxrMxTtJDSzX9vxUEdZ66x_G_Zn6d9-lMIwNScx0s3lEAU-tae4EDZw2MrezTiFZImJ7aGuDgm37mA8rPjKCq9BJUDXywmQsFsnCL42S5bVuTjAkKROA1SIL-NFU8_cZkJ3IoyeqyUFDMUXWGv0w3c) (ACM/IEEE Fellow)
+    - Advisor: [David Lo](http://www.mysmu.edu/faculty/davidlo/)
 - M.E. in Software Engineering, Zhejiang University, Sep. 2022 - Jun 2025
     - Supervisor: [Xing Hu](https://xing-hu.github.io/)
-    - Advisor: [Xin Xia](https://xin-xia.github.io/) (ACM Distinguished Member)
+    - Advisor: [Xin Xia](https://xin-xia.github.io/)
 - B.E. in Computer Science, Southwest Jiaotong University, Sep. 2018 - Jun. 2022
