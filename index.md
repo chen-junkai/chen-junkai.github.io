@@ -5,14 +5,14 @@ author_profile: true
 
 I am Junkai **Chen** (**陈**俊凯), an incoming Ph.D. student at [Singapore Management University](https://www.smu.edu.sg/), advised by [Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/). I received my master's degree at [Zhejiang University](https://www.zju.edu.cn/english), where I was advised by [Prof. Xing Hu](https://xing-hu.github.io/) and [Prof. Xin Xia](https://xin-xia.github.io). 
 
-My research interests are generally about the intersection of Software Engineering and Artificial Intelligence.
+My research interests lie generally in the intersection of Software Engineering and Artificial Intelligence.
 
 
 ***
 
 # News
 
-- \[Pinned\] 🤗 Feel free to check recent SE conference papers at [**SEConfPaperList**](https://github.com/iCSawyer/SEConfPaperList) 〰️
+- **\[Pinned\]** 🤗 Feel free to check recent SE conference papers at [**SEConfPaperList**](https://github.com/iCSawyer/SEConfPaperList) 〰️
 
 - \[30/3/25\] 😆 Our paper about code review is accepted by ISSTA 2025.
 
@@ -21,7 +21,6 @@ My research interests are generally about the intersection of Software Engineeri
 
 # Publications
 <!-- Please refer to [Google Scholar](https://scholar.google.com/citations?user=vm05-t0AAAAJ&hl=zh-CN) for the full list. -->
-[[Google Scholar]](https://scholar.google.com/citations?user=vm05-t0AAAAJ&hl=zh-CN)
 
 - [TOSEM\'25] **NLPerturbator: Studying the Robustness of Code LLMs to Natural Language Variations**\
 **Junkai Chen\***, Zhenhao Li\*, Xing Hu, and Xin Xia.
@@ -90,6 +89,5 @@ My research interests are generally about the intersection of Software Engineeri
 - Research Engineer, Singapore Management University, Jan. 2025 - present
     - Advisor: [David Lo](http://www.mysmu.edu/faculty/davidlo/)
 - M.E. in Software Engineering, Zhejiang University, Sep. 2022 - Jun 2025
-    - Supervisor: [Xing Hu](https://xing-hu.github.io/)
-    - Advisor: [Xin Xia](https://xin-xia.github.io/)
+    - Supervisor: [Xing Hu](https://xing-hu.github.io/), Advisor: [Xin Xia](https://xin-xia.github.io/)
 - B.E. in Computer Science, Southwest Jiaotong University, Sep. 2018 - Jun. 2022
