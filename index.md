@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-I am Junkai **Chen** (**陈**俊凯), an incoming Ph.D. student at [Singapore Management University](https://www.smu.edu.sg/), advised by [Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/). I received my master's degree at [Zhejiang University](https://www.zju.edu.cn/english), where I was advised by [Prof. Xing Hu](https://xing-hu.github.io/) and [Prof. Xin Xia](https://xin-xia.github.io). 
+I am Junkai **Chen** (**陈**俊凯), a Ph.D. student at [Singapore Management University](https://www.smu.edu.sg/), advised by [Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/). I received my master's degree at [Zhejiang University](https://www.zju.edu.cn/english), where I was very fortunate to be advised by [Prof. Xing Hu](https://xing-hu.github.io/) and [Prof. Xin Xia](https://xin-xia.github.io). 
 
 My research interests lie generally in the intersection of Software Engineering and Artificial Intelligence.
 
@@ -27,9 +27,8 @@ My research interests lie generally in the intersection of Software Engineering 
   <details style="font-size: 0.7rem; color: #777;">
     <summary>More</summary>
     TLDR: Test robustness of llms by perturbations. <br/>
-    PDF and Code: TBA
-    <!-- 📄 <a href="https://arxiv.org/pdf/2410.06515" target="_blank">PDF</a>  
-    | 💻 <a href="https://github.com/iCSawyer/ClearCRC" target="_blank">Code</a> -->
+    📄 <a href="https://github.com/iCSawyer/NLPerturbator" target="_blank">PDF</a>  
+    | 💻 <a href="https://dl.acm.org/doi/abs/10.1145/3745764" target="_blank">Code</a>
   </details>
 
 - [ISSTA\'25] [**Understanding Practitioners’ Expectations on Clear Code Review Comments**](https://arxiv.org/pdf/2410.06515) \
@@ -76,13 +75,14 @@ My research interests lie generally in the intersection of Software Engineering 
 
 # Services
 ### Program Committee / Journal Reviewer
+- 2026: ICSE (Shadow PC)
 - 2025: MSR (Junior PC), DL4C@ICLR, LTB@ICPE
 
 ### Others
 - External Reviewer: ICSE, FSE, ASE, TOSEM, MSR, FCS, JSS (Chinese), etc.
 - Student Volunteer: Internetware 2023
 
-***
+<!-- ***
 
 # Experiences
 - Ph.D. Student, Singapore Management University, Aug. 2025 - present
@@ -90,4 +90,4 @@ My research interests lie generally in the intersection of Software Engineering 
     - Advisor: [David Lo](http://www.mysmu.edu/faculty/davidlo/)
 - M.E. in Software Engineering, Zhejiang University, Sep. 2022 - Jun 2025
     - Supervisor: [Xing Hu](https://xing-hu.github.io/), Advisor: [Xin Xia](https://xin-xia.github.io/)
-- B.E. in Computer Science, Southwest Jiaotong University, Sep. 2018 - Jun. 2022
+- B.E. in Computer Science, Southwest Jiaotong University, Sep. 2018 - Jun. 2022 -->
