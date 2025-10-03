@@ -14,7 +14,7 @@ My research interests lie generally in the intersection of Software Engineering 
 
 - **\[Pinned\]** 🤗 Feel free to check recent SE conference papers at [**SEConfPaperList**](https://github.com/iCSawyer/SEConfPaperList) 〰️
 
-- \[30/3/25\] 😆 Our paper about code review is accepted by ISSTA 2025.
+- \[26/9/25\] 😆 Check our lastest preprint for benchmarking vide coding of code agents!
 
 
 ***
