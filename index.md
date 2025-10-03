@@ -22,16 +22,25 @@ My research interests lie generally in the intersection of Software Engineering 
 # Publications
 <!-- Please refer to [Google Scholar](https://scholar.google.com/citations?user=vm05-t0AAAAJ&hl=zh-CN) for the full list. -->
 
-- [TOSEM\'25] **NLPerturbator: Studying the Robustness of Code LLMs to Natural Language Variations**\
+- [Preprint] [**SecureAgentBench: Benchmarking Secure Code Generation under Realistic Vulnerability Scenarios**](https://www.arxiv.org/abs/2509.22097)\
+**Junkai Chen\***, Huihui Huang\*, Yunbo Lyu, Junwen An, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, Xin Zhou, Xing Hu, and David Lo.
+  <details style="font-size: 0.7rem; color: #777;">
+    <summary>More</summary>
+    TLDR: First secure coding benchmark for vibe coding. <br/>
+    📄 <a href="https://www.arxiv.org/pdf/2509.22097" target="_blank">PDF</a>  
+    | 💻 <a href="" target="_blank">Code: TBD</a>
+  </details>
+
+- [TOSEM\'25] [**NLPerturbator: Studying the Robustness of Code LLMs to Natural Language Variations**](https://dl.acm.org/doi/10.1145/3745764)\
 **Junkai Chen\***, Zhenhao Li\*, Xing Hu, and Xin Xia.
   <details style="font-size: 0.7rem; color: #777;">
     <summary>More</summary>
     TLDR: Test robustness of llms by perturbations. <br/>
-    📄 <a href="https://github.com/iCSawyer/NLPerturbator" target="_blank">PDF</a>  
-    | 💻 <a href="https://dl.acm.org/doi/abs/10.1145/3745764" target="_blank">Code</a>
+    📄 <a href="https://dl.acm.org/doi/abs/10.1145/3745764" target="_blank">PDF</a>  
+    | 💻 <a href="https://github.com/iCSawyer/NLPerturbator" target="_blank">Code</a>
   </details>
 
-- [ISSTA\'25] [**Understanding Practitioners’ Expectations on Clear Code Review Comments**](https://arxiv.org/pdf/2410.06515) \
+- [ISSTA\'25] [**Understanding Practitioners’ Expectations on Clear Code Review Comments**](https://dl.acm.org/doi/10.1145/3728931) \
 **Junkai Chen\***, Zhenhao Li\*, Qiheng Mao, Xing Hu, Kui Liu, and Xin Xia.
   <details style="font-size: 0.7rem; color: #777;">
     <summary>More</summary>
@@ -40,7 +49,7 @@ My research interests lie generally in the intersection of Software Engineering 
     | 💻 <a href="https://github.com/iCSawyer/ClearCRC" target="_blank">Code</a>
   </details>
 
-- [ICSE\'25] [**Reasoning Runtime Behavior of a Program with LLM: How Far Are We?**](https://arxiv.org/pdf/2403.16437.pdf) \
+- [ICSE\'25] [**Reasoning Runtime Behavior of a Program with LLM: How Far Are We?**](https://dl.acm.org/doi/10.1109/ICSE55347.2025.00012) \
 **Junkai Chen\***, Zhiyuan Pan\*, Xing Hu, Zhenhao Li, Ge Li, and Xin Xia.\
   <details style="font-size: 0.7rem; color: #777;">
     <summary>More</summary>
@@ -50,7 +59,7 @@ My research interests lie generally in the intersection of Software Engineering 
   </details>
 
 
-- [ICSE\'24] [**Code Search is All You Need? Improving Code Suggestions with Code Search**](https://ginolzh.github.io/papers/ICSE2024_Code_Suggestion.pdf) \
+- [ICSE\'24] [**Code Search is All You Need? Improving Code Suggestions with Code Search**](https://dl.acm.org/doi/10.1145/3597503.3639085) \
 **Junkai Chen**, Xing Hu, Zhenhao Li, Cuiyun Gao, Xin Xia, and David Lo.\
 <span style="color: darkred; font-weight: bold;">🏆 ACM SIGSOFT Distinguished Paper Award.</span>
   <details style="font-size: 0.7rem; color: #777;">
