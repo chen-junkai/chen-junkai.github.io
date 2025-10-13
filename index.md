@@ -3,24 +3,24 @@ layout: single
 author_profile: true
 ---
 
-I am Junkai **Chen** (**陈**俊凯), a Ph.D. student at [Singapore Management University](https://www.smu.edu.sg/), advised by [Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/). I received my master's degree at [Zhejiang University](https://www.zju.edu.cn/english), where I was very fortunate to be advised by [Prof. Xing Hu](https://xing-hu.github.io/) and [Prof. Xin Xia](https://xin-xia.github.io). 
+🤗 I am Junkai **Chen** (**陈**俊凯), a Ph.D. student at [Singapore Management University](https://www.smu.edu.sg/), advised by [👨‍🏫 Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/). I received my master's degree at [Zhejiang University](https://www.zju.edu.cn/english), where I was very fortunate 💗 to be advised by [Prof. ✨ Xing Hu](https://xing-hu.github.io/) and [Prof. 🌟 Xin Xia](https://xin-xia.github.io). 
 
-My research interests lie generally in the intersection of Software Engineering and Artificial Intelligence.
+So many exciting and interesting \\(≧▽≦)/ things are happening in the era of AI (especially Large Language Models)!, where _code_ seems to be a promising path _from uninterpretable output to grounded actions_. I am thrilled to be part of this time, and hope to make meaningful contributions to real world problems, with research at the intersection of **Software Engineering** and **Artificial Intelligence**.
 
 
 ***
 
 # News
 
-- **\[Pinned\]** 🤗 Feel free to check recent SE conference papers at [**SEConfPaperList**](https://github.com/iCSawyer/SEConfPaperList) 〰️
+- \[26/9/25\] 😆 Check our lastest [preprint](https://arxiv.org/abs/2509.22097) for evaluating 🔐 secure vide coding of code agents! <span style="color: darkred; font-weight: bold;">We surprisingly find that, given the historical context of vulnerability introduction, current code agents still fall into human failures, even inducing other security issue!</span> 
 
-- \[26/9/25\] 😆 Check our lastest preprint for benchmarking vide coding of code agents!
+- 🤗 Feel free to check and contribute recent SE conference papers at [**SEConfPaperList**](https://github.com/iCSawyer/SEConfPaperList) 〰️
+
 
 
 ***
 
 # Publications
-<!-- Please refer to [Google Scholar](https://scholar.google.com/citations?user=vm05-t0AAAAJ&hl=zh-CN) for the full list. -->
 
 - [Preprint] [**SecureAgentBench: Benchmarking Secure Code Generation under Realistic Vulnerability Scenarios**](https://www.arxiv.org/abs/2509.22097)\
 **Junkai Chen\***, Huihui Huang\*, Yunbo Lyu, Junwen An, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, Xin Zhou, Xing Hu, and David Lo.
@@ -84,7 +84,7 @@ My research interests lie generally in the intersection of Software Engineering 
 
 # Services
 ### Program Committee / Journal Reviewer
-- 2026: ICSE (Shadow PC)
+- 2026: ICSE (Shadow PC), MSR (Junior PC), DL4C@NeurIPS, EASE (AI Models / Data Track)
 - 2025: MSR (Junior PC), DL4C@ICLR, LTB@ICPE
 
 ### Others
