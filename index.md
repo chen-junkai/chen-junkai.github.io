@@ -5,7 +5,9 @@ author_profile: true
 
 🤗 I am Junkai **Chen** (**陈**俊凯), a Ph.D. student at [Singapore Management University](https://www.smu.edu.sg/), advised by [👨‍🏫 Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/). I received my master's degree at [Zhejiang University](https://www.zju.edu.cn/english), where I was very fortunate 💗 to be advised by [Prof. ✨ Xing Hu](https://xing-hu.github.io/) and [Prof. 🌟 Xin Xia](https://xin-xia.github.io). 
 
-So many exciting and interesting \\(≧▽≦)/ things are happening in the era of AI (especially Large Language Models)!, where _code_ seems to be a promising path _from uninterpretable output to grounded actions_. I am thrilled to be part of this time, and hope to make meaningful contributions to real world problems, with research at the intersection of **Software Engineering** and **Artificial Intelligence**.
+So many exciting and interesting \\(≧▽≦)/ things are happening in the era of AI (especially Large Language Models)!, where _code_ seems to be a promising path _from uninterpretable output to grounded actions_. I am thrilled to be part of this time, and hope to make meaningful contributions to real world problems, with my research at the intersection of **Software Engineering** and **Artificial Intelligence**. 
+
+🛫 [Reach out to me](mailto:junkaichen2000@gmail.com) if you are interested!
 
 
 ***
@@ -84,7 +86,7 @@ So many exciting and interesting \\(≧▽≦)/ things are happening in the era 
 
 # Services
 ### Program Committee / Journal Reviewer
-- 2026: ICSE (Shadow PC), MSR (Junior PC), DL4C@NeurIPS, EASE (AI Models / Data Track)
+- 2026: IST, ICSE (Shadow PC), MSR (Junior PC), DL4C@NeurIPS, EASE (AI Models / Data Track)
 - 2025: MSR (Junior PC), DL4C@ICLR, LTB@ICPE
 
 ### Others
