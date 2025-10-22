@@ -33,6 +33,15 @@ So many exciting and interesting \\(≧▽≦)/ things are happening in the era 
     | 💻 <a href="" target="_blank">Code: TBD</a>
   </details>
 
+- [Preprint] [**R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation**](https://arxiv.org/abs/2504.04699)\
+  Martin Weyssow, Chengran Yang, **Junkai Chen**, Ratnadira Widyasari, Ting Zhang, Huihui Huang, Huu Hung Nguyen, Yan Naing Tun, Tan Bui, Yikun Li, Ang Han Wei, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.
+  <details style="font-size: 0.7rem; color: #777;">
+    <summary>More</summary>
+    TLDR: Reasoning for vulnerability detection. <br/>
+    📄 <a href="https://arxiv.org/pdf/2504.04699" target="_blank">PDF</a>  
+    | 💻 <a href="https://github.com/martin-wey/R2Vul" target="_blank">Code</a>
+  </details>
+
 - [TOSEM\'25] [**NLPerturbator: Studying the Robustness of Code LLMs to Natural Language Variations**](https://dl.acm.org/doi/10.1145/3745764)\
 **Junkai Chen\***, Zhenhao Li\*, Xing Hu, and Xin Xia.
   <details style="font-size: 0.7rem; color: #777;">
