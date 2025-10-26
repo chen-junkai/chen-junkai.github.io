@@ -42,6 +42,15 @@ So many exciting and interesting \\(≧▽≦)/ things are happening in the era 
     | 💻 <a href="https://github.com/martin-wey/R2Vul" target="_blank">Code</a>
   </details>
 
+- [Preprint] [**Assessing and Advancing Benchmarks for Evaluating Large Language Models in Software Engineering Tasks**](https://arxiv.org/abs/2505.08903)\
+  Xing Hu, Feifei Niu, Junkai Chen, Xin Zhou, Junwei Zhang, Junda He, Xin Xia, and David Lo.
+  <details style="font-size: 0.7rem; color: #777;">
+    <summary>More</summary>
+    TLDR: Literature review on benchmarks of LLM4SE. <br/>
+    📄 <a href="https://arxiv.org/pdf/2505.08903" target="_blank">PDF</a>  
+    | 💻 <a href="https://github.com/LLM4SE-Benchmarks/LLM4SE-Benchmarks" target="_blank">Code</a>
+  </details>
+
 - [TOSEM\'25] [**NLPerturbator: Studying the Robustness of Code LLMs to Natural Language Variations**](https://dl.acm.org/doi/10.1145/3745764)\
 **Junkai Chen\***, Zhenhao Li\*, Xing Hu, and Xin Xia.
   <details style="font-size: 0.7rem; color: #777;">
