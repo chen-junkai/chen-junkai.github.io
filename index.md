@@ -43,7 +43,7 @@ So many exciting and interesting \\(≧▽≦)/ things are happening in the era 
   </details>
 
 - [Preprint] [**Assessing and Advancing Benchmarks for Evaluating Large Language Models in Software Engineering Tasks**](https://arxiv.org/abs/2505.08903)\
-  Xing Hu, Feifei Niu, Junkai Chen, Xin Zhou, Junwei Zhang, Junda He, Xin Xia, and David Lo.
+  Xing Hu, Feifei Niu, **Junkai Chen**, Xin Zhou, Junwei Zhang, Junda He, Xin Xia, and David Lo.
   <details style="font-size: 0.7rem; color: #777;">
     <summary>More</summary>
     TLDR: Literature review on benchmarks of LLM4SE. <br/>
