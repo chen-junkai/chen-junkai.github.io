@@ -1,39 +1,43 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-$link-color: #0066CC; // this is custom
-//$link-color: #1772d0;
-//$link-color: #f09228;
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // mai:qn partials
+/* 覆盖默认变量 - 在导入主题之前设置 */
+$x-large: 1800px;                    // 增加最大宽度（默认 1440px）
+$right-sidebar-width-narrow: 180px;  // 侧边栏宽度 - large 断点（减小以增加中间列宽度）
+$right-sidebar-width: 220px;         // 侧边栏宽度 - x-large 断点（减小以增加中间列宽度）
+$link-color: #0066CC;                // 自定义链接颜色
+//$link-color: #1772d0;
+//$link-color: #f09228;
 
-/* Custom width adjustments for better reading experience */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* 自定义样式 */
+
+/* 优化阅读体验 - 更好的行高 */
 .page__content {
   p, li, dl {
     font-size: 1em;
   }
   
-  /* Better line height for readability */
   p {
     line-height: 1.8;
   }
 }
 
-/* Mobile optimization */
+/* 移动端优化 - 保持良好的阅读体验 */
 @media (max-width: 768px) {
   #main {
     padding-left: 1em;
     padding-right: 1em;
   }
   
-  .page__content {
-    p {
-      line-height: 1.7;
-      font-size: 1em;
-    }
+  .page__content p {
+    line-height: 1.7;
+    font-size: 1em;
   }
   
   .masthead__inner-wrap {
@@ -41,41 +45,10 @@ $link-color: #0066CC; // this is custom
   }
 }
 
-/* Tablet optimization */
+/* 平板端优化 */
 @media (min-width: 769px) and (max-width: 1024px) {
   #main {
     padding-left: 1.5em;
     padding-right: 1.5em;
-  }
-}
-
-/* Desktop optimization - wider content area */
-@media (min-width: 1280px) {
-  #main {
-    max-width: 1680px;
-  }
-  
-  .page__inner-wrap {
-    max-width: 1100px;
-    margin: 0 auto;
-  }
-  
-  .archive {
-    max-width: 1100px;
-  }
-}
-
-/* Large screen optimization */
-@media (min-width: 1440px) {
-  #main {
-    max-width: 1800px;
-  }
-  
-  .page__inner-wrap {
-    max-width: 1200px;
-  }
-  
-  .archive {
-    max-width: 1200px;
   }
 }
