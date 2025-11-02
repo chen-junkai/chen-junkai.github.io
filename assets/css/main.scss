@@ -49,9 +49,33 @@ $link-color: #0066CC; // this is custom
   }
 }
 
+/* Desktop optimization - wider content area */
+@media (min-width: 1280px) {
+  #main {
+    max-width: 1680px;
+  }
+  
+  .page__inner-wrap {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  
+  .archive {
+    max-width: 1100px;
+  }
+}
+
 /* Large screen optimization */
 @media (min-width: 1440px) {
   #main {
-    max-width: 1440px;
+    max-width: 1800px;
+  }
+  
+  .page__inner-wrap {
+    max-width: 1200px;
+  }
+  
+  .archive {
+    max-width: 1200px;
   }
 }
