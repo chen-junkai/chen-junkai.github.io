@@ -9,3 +9,49 @@ $link-color: #0066CC; // this is custom
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // mai:qn partials
+
+/* Custom width adjustments for better reading experience */
+.page__content {
+  p, li, dl {
+    font-size: 1em;
+  }
+  
+  /* Better line height for readability */
+  p {
+    line-height: 1.8;
+  }
+}
+
+/* Mobile optimization */
+@media (max-width: 768px) {
+  #main {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+  
+  .page__content {
+    p {
+      line-height: 1.7;
+      font-size: 1em;
+    }
+  }
+  
+  .masthead__inner-wrap {
+    padding: 1em;
+  }
+}
+
+/* Tablet optimization */
+@media (min-width: 769px) and (max-width: 1024px) {
+  #main {
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+  }
+}
+
+/* Large screen optimization */
+@media (min-width: 1440px) {
+  #main {
+    max-width: 1440px;
+  }
+}
