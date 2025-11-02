@@ -4,51 +4,67 @@
 
 @charset "utf-8";
 
-/* 覆盖默认变量 - 在导入主题之前设置 */
-$x-large: 1800px;                    // 增加最大宽度（默认 1440px）
-$right-sidebar-width-narrow: 180px;  // 侧边栏宽度 - large 断点（减小以增加中间列宽度）
-$right-sidebar-width: 220px;         // 侧边栏宽度 - x-large 断点（减小以增加中间列宽度）
-$link-color: #0066CC;                // 自定义链接颜色
+/* Override default variables before importing theme */
+$x-large: 1800px;                    // Increase max width (default 1440px)
+$right-sidebar-width-narrow: 150px;  // Reduce left sidebar width to expand center column
+$right-sidebar-width: 180px;         // Reduce left sidebar width for x-large screens
+$link-color: #0066CC;                // Custom link color
 //$link-color: #1772d0;
 //$link-color: #f09228;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-/* 自定义样式 */
-
-/* 优化阅读体验 - 更好的行高 */
-.page__content {
-  p, li, dl {
-    font-size: 1em;
+/* Desktop optimization */
+@media (min-width: 1024px) {
+  .page__content {
+    /* Font size */
+    p, li, dl {
+      font-size: 0.9em;
+      line-height: 1.7;
+    }
+    
+    /* Paragraph spacing */
+    p {
+      margin-bottom: 1.2em;
+    }
+    
+    /* List spacing */
+    ul, ol {
+      margin-bottom: 1.2em;
+    }
+    
+    li {
+      margin-bottom: 0.4em;
+    }
+    
+    /* Heading spacing */
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.8em;
+      margin-bottom: 0.6em;
+      line-height: 1.3;
+    }
+    
+    /* First heading adjustment */
+    > h1:first-child,
+    > h2:first-child,
+    > h3:first-child {
+      margin-top: 0.5em;
+    }
   }
   
-  p {
-    line-height: 1.8;
-  }
-}
-
-/* 移动端优化 - 保持良好的阅读体验 */
-@media (max-width: 768px) {
-  #main {
-    padding-left: 1em;
-    padding-right: 1em;
+  /* Side margins */
+  .page__inner-wrap {
+    padding-left: 2.5em;
+    padding-right: 2.5em;
   }
   
-  .page__content p {
-    line-height: 1.7;
-    font-size: 1em;
+  /* Publication list items - larger spacing for items with details */
+  .page__content li details {
+    margin-top: 0.5em;
   }
   
-  .masthead__inner-wrap {
-    padding: 1em;
-  }
-}
-
-/* 平板端优化 */
-@media (min-width: 769px) and (max-width: 1024px) {
-  #main {
-    padding-left: 1.5em;
-    padding-right: 1.5em;
+  .page__content li:has(details) {
+    margin-bottom: 2em;
   }
 }
