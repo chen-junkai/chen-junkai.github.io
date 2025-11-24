@@ -104,7 +104,7 @@ So many exciting and interesting \\(≧▽≦)/ things are happening in the era 
 
 # Services
 ### Program Committee / Journal Reviewer
-- 2026: IST, ICSE (Shadow PC), MSR (Junior PC), DL4C@NeurIPS, EASE (AI Models / Data Track)
+- 2026: TOSEM, IST, ICSE (Shadow PC), MSR (Junior PC), DL4C@NeurIPS, EASE (AI Models / Data Track)
 - 2025: MSR (Junior PC), DL4C@ICLR, LTB@ICPE
 
 ### Others
