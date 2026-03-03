@@ -71,6 +71,7 @@ So many exciting and interesting \\(≧▽≦)/ things are happening in the era 
 
 - [ICSE\'25] [**Reasoning Runtime Behavior of a Program with LLM: How Far Are We?**](https://dl.acm.org/doi/10.1109/ICSE55347.2025.00012) \
 **Junkai Chen\***, Zhiyuan Pan\*, Xing Hu, Zhenhao Li, Ge Li, and Xin Xia.\
+<span style="color: darkred; font-weight: bold;">🩷 This work is featured by [JetBrains-Research](https://huggingface.co/datasets/JetBrains-Research/REval)!</span>
   <details style="font-size: 0.7rem; color: #777;">
     <summary>More</summary>
     TLDR: Check if LLMs can reason intermediate runtime information of code. <br />
