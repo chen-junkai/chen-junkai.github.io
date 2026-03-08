@@ -43,8 +43,8 @@ So many exciting and interesting \\(≧▽≦)/ things are happening in the era 
   </details>
 
 - [TOSEM\'26] [**Assessing and Advancing Benchmarks for Evaluating Large Language Models in Software Engineering Tasks**](https://arxiv.org/abs/2505.08903)\
-  Xing Hu, Feifei Niu, **Junkai Chen**, Xin Zhou, Junwei Zhang, Junda He, Xin Xia, and David Lo.
-  <span style="color: darkred; font-weight: bold;">🩷 This work is featured by [新智元](https://mp.weixin.qq.com/s/zHVWchAOONC2Y75PvYNDBg).</span>
+  Xing Hu, Feifei Niu, **Junkai Chen**, Xin Zhou, Junwei Zhang, Junda He, Xin Xia, and David Lo.\
+  <span style="color: darkred; font-weight: bold;">🔥 This work is featured by [新智元](https://mp.weixin.qq.com/s/zHVWchAOONC2Y75PvYNDBg).</span>
   <details style="font-size: 0.7rem; color: #777;">
     <summary>More</summary>
     TLDR: Literature review on benchmarks of LLM4SE. <br/>
@@ -72,7 +72,7 @@ So many exciting and interesting \\(≧▽≦)/ things are happening in the era 
 
 - [ICSE\'25] [**Reasoning Runtime Behavior of a Program with LLM: How Far Are We?**](https://dl.acm.org/doi/10.1109/ICSE55347.2025.00012) \
 **Junkai Chen\***, Zhiyuan Pan\*, Xing Hu, Zhenhao Li, Ge Li, and Xin Xia.\
-<span style="color: darkred; font-weight: bold;">🩷 This work is included in [🤗 HuggingFace/JetBrains-Research](https://huggingface.co/datasets/JetBrains-Research/REval).</span>
+<span style="color: darkred; font-weight: bold;">🔥 This work is included in [🤗 HuggingFace/JetBrains-Research](https://huggingface.co/datasets/JetBrains-Research/REval).</span>
   <details style="font-size: 0.7rem; color: #777;">
     <summary>More</summary>
     TLDR: Check if LLMs can reason intermediate runtime information of code. <br />
