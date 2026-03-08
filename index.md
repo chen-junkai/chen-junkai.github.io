@@ -44,7 +44,7 @@ So many exciting and interesting \\(≧▽≦)/ things are happening in the era 
 
 - [TOSEM\'26] [**Assessing and Advancing Benchmarks for Evaluating Large Language Models in Software Engineering Tasks**](https://arxiv.org/abs/2505.08903)\
   Xing Hu, Feifei Niu, **Junkai Chen**, Xin Zhou, Junwei Zhang, Junda He, Xin Xia, and David Lo.\
-  <span style="color: darkred; font-weight: bold;">🔥 This work is featured by [新智元](https://mp.weixin.qq.com/s/zHVWchAOONC2Y75PvYNDBg).</span>
+  <span style="color: darkred; font-weight: bold;">🔥 This work is featured by [新智元](https://mp.weixin.qq.com/s/zHVWchAOONC2Y75PvYNDBg) (in Chinese).</span>
   <details style="font-size: 0.7rem; color: #777;">
     <summary>More</summary>
     TLDR: Literature review on benchmarks of LLM4SE. <br/>
