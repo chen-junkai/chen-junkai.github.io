@@ -117,7 +117,7 @@ Yikun Li, Ngoc Tan Bui, Ting Zhang, Chengran Yang, Xin Zhou, Martin Weyssow, Jin
   </details>
 
 - [Preprint] [**Semantics-Aligned, Curriculum-Driven, and Reasoning-Enhanced Vulnerability Repair Framework**](https://arxiv.org/abs/2510.01002) \
-- Chengran Yang, Ting Zhang, Jinfeng Jiang, Xin Zhou, Haoye Tian, Mingzhe Du, Jieke Shi, **Junkai Chen**, Yikun Li, Eng Lieh Ouh, Lwin Khin Shar, David Lo\
+  Chengran Yang, Ting Zhang, Jinfeng Jiang, Xin Zhou, Haoye Tian, Mingzhe Du, Jieke Shi, **Junkai Chen**, Yikun Li, Eng Lieh Ouh, Lwin Khin Shar, David Lo\
     <details style="font-size: 0.7rem; color: #777;">
       <summary>More</summary>
       TLDR: Vulnerability repair with code semantic-based RL.<br/> 
