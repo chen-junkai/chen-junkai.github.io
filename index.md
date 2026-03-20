@@ -5,7 +5,7 @@ author_profile: true
 
 🤗 I am Junkai **Chen** (**陈**俊凯), a Ph.D. student at [Singapore Management University](https://www.smu.edu.sg/), advised by [👨‍🏫 Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/). I received my master's degree at [Zhejiang University](https://www.zju.edu.cn/english), where I was very fortunate 💗 to be advised by [Prof. ✨ Xing Hu](https://xing-hu.github.io/) and [Prof. 🌟 Xin Xia](https://xin-xia.github.io). 
 
-So many exciting and interesting \\(≧▽≦)/ things are happening in the era of AI (especially Large Language Models)!, where _code_ seems to be a promising path _from uninterpretable output to grounded actions_. I am thrilled to be part of this time, and hope to make meaningful contributions to real world problems, with my research at the intersection of **Software Engineering** and **Artificial Intelligence**. 
+So many exciting and interesting \(≧▽≦)/ things are happening in the era of AI (especially Large Language Models)!, where _code_ seems to be a promising path _from uninterpretable output to grounded actions_. I am thrilled to be part of this time, and hope to make meaningful contributions to real world problems, with my research at the intersection of **Software Engineering** and **Artificial Intelligence**. 
 
 🛫 [Reach out to me](mailto:junkaichen2000@gmail.com) if you are interested!
 
@@ -17,7 +17,6 @@ So many exciting and interesting \\(≧▽≦)/ things are happening in the era 
 - \[26/9/25\] 😆 Check our lastest [preprint](https://arxiv.org/abs/2509.22097) for evaluating 🔐 secure vide coding of code agents! <span style="color: darkred; font-weight: bold;">We surprisingly find that, given the historical context of vulnerability introduction, current code agents still fall into human failures, even inducing other security issue!</span> 
 
 - 🤗 Feel free to check and contribute recent SE conference papers at [**SEConfPaperList**](https://github.com/iCSawyer/SEConfPaperList) 〰️
-
 
 
 ***
@@ -87,42 +86,46 @@ So many exciting and interesting \\(≧▽≦)/ things are happening in the era 
 
 ***
 
-# Other Publications
+<details>
+  <summary><strong>Other Publications</strong></summary>
 
-- [ICSE\'26 (NIER)] [**PenForge: On-the-Fly Expert Agent Construction for Automated Penetration Testing**](https://arxiv.org/abs/2601.06910) \
-Huihui Huang, Jieke Shi, **Junkai Chen**, Ting Zhang, Yikun Li, Chengran Yang, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.\
-  <details style="font-size: 0.7rem; color: #777;">
-    <summary>More</summary>
-    TLDR: Pentesting with on-the-fly expert agents.<br/>
-    📄 <a href="https://arxiv.org/pdf/2601.06910" target="_blank">PDF</a>  
-    | 💻 <a href="https://github.com/huanghuihui0904/PenForge" target="_blank">Code</a>
-  </details>
-
-- [ICSE\'26] [**Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses?**](https://arxiv.org/abs/2507.21817) \
-Yikun Li, Ngoc Tan Bui, Ting Zhang, Chengran Yang, Xin Zhou, Martin Weyssow, Jinfeng Jiang, **Junkai Chen**, Huihui Huang, Huu Hung Nguyen, Chiok Yew Ho, Jie Tan, Ruiyin Li, Yide Yin, Han Wei Ang, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, and David Lo\
-  <details style="font-size: 0.7rem; color: #777;">
-    <summary>More</summary>
-    TLDR: New vulnerability datasets: TitanVul and BenchVul. <br/>
-    📄 <a href="https://arxiv.org/abs/2507.21817" target="_blank">PDF</a>  
-    | 💻 <a href="https://github.com/yikun-li/TitanVul-BenchVul" target="_blank">Code</a>
-  </details>
-
-- [Preprint] [**Semantics-Aligned, Curriculum-Driven, and Reasoning-Enhanced Vulnerability Repair Framework**](https://arxiv.org/abs/2510.01002) \
-  Chengran Yang, Ting Zhang, Jinfeng Jiang, Xin Zhou, Haoye Tian, Mingzhe Du, Jieke Shi, **Junkai Chen**, Yikun Li, Eng Lieh Ouh, Lwin Khin Shar, David Lo\
+  - [ICSE\'26 (NIER)] [**PenForge: On-the-Fly Expert Agent Construction for Automated Penetration Testing**](https://arxiv.org/abs/2601.06910) \
+  Huihui Huang, Jieke Shi, **Junkai Chen**, Ting Zhang, Yikun Li, Chengran Yang, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.\
     <details style="font-size: 0.7rem; color: #777;">
       <summary>More</summary>
-      TLDR: Vulnerability repair with code semantic-based RL.<br/> 
-      📄 <a href="https://arxiv.org/pdf/2510.01002" target="_blank">PDF</a>      
+      TLDR: Pentesting with on-the-fly expert agents.<br/>
+      📄 <a href="https://arxiv.org/pdf/2601.06910" target="_blank">PDF</a>  
+      | 💻 <a href="https://github.com/huanghuihui0904/PenForge" target="_blank">Code</a>
     </details>
 
-- [Preprint] [**R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation**](https://arxiv.org/abs/2504.04699)\
-  Martin Weyssow, Chengran Yang, **Junkai Chen**, Ratnadira Widyasari, Ting Zhang, Huihui Huang, Huu Hung Nguyen, Yan Naing Tun, Tan Bui, Yikun Li, Ang Han Wei, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.
-  <details style="font-size: 0.7rem; color: #777;">
-    <summary>More</summary>
-    TLDR: Reasoning for vulnerability detection. <br/>
-    📄 <a href="https://arxiv.org/pdf/2504.04699" target="_blank">PDF</a>  
-    | 💻 <a href="https://github.com/martin-wey/R2Vul" target="_blank">Code</a>
-  </details>
+  - [ICSE\'26] [**Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses?**](https://arxiv.org/abs/2507.21817) \
+  Yikun Li, Ngoc Tan Bui, Ting Zhang, Chengran Yang, Xin Zhou, Martin Weyssow, Jinfeng Jiang, **Junkai Chen**, Huihui Huang, Huu Hung Nguyen, Chiok Yew Ho, Jie Tan, Ruiyin Li, Yide Yin, Han Wei Ang, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, and David Lo\
+    <details style="font-size: 0.7rem; color: #777;">
+      <summary>More</summary>
+      TLDR: New vulnerability datasets: TitanVul and BenchVul. <br/>
+      📄 <a href="https://arxiv.org/abs/2507.21817" target="_blank">PDF</a>  
+      | 💻 <a href="https://github.com/yikun-li/TitanVul-BenchVul" target="_blank">Code</a>
+    </details>
+
+  - [Preprint] [**Semantics-Aligned, Curriculum-Driven, and Reasoning-Enhanced Vulnerability Repair Framework**](https://arxiv.org/abs/2510.01002) \
+    Chengran Yang, Ting Zhang, Jinfeng Jiang, Xin Zhou, Haoye Tian, Mingzhe Du, Jieke Shi, **Junkai Chen**, Yikun Li, Eng Lieh Ouh, Lwin Khin Shar, David Lo
+      <details style="font-size: 0.7rem; color: #777;">
+        <summary>More</summary>
+        TLDR: Vulnerability repair with code semantic-based RL.<br/> 
+        📄 <a href="https://arxiv.org/pdf/2510.01002" target="_blank">PDF</a>      
+      </details>
+
+  - [Preprint] [**R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation**](https://arxiv.org/abs/2504.04699)\
+    Martin Weyssow, Chengran Yang, **Junkai Chen**, Ratnadira Widyasari, Ting Zhang, Huihui Huang, Huu Hung Nguyen, Yan Naing Tun, Tan Bui, Yikun Li, Ang Han Wei, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.
+    <details style="font-size: 0.7rem; color: #777;">
+      <summary>More</summary>
+      TLDR: Reasoning for vulnerability detection. <br/>
+      📄 <a href="https://arxiv.org/pdf/2504.04699" target="_blank">PDF</a>  
+      | 💻 <a href="https://github.com/martin-wey/R2Vul" target="_blank">Code</a>
+    </details>
+
+</details>
+
 ***
 
 
@@ -143,12 +146,13 @@ Yikun Li, Ngoc Tan Bui, Ting Zhang, Chengran Yang, Xin Zhou, Martin Weyssow, Jin
 - External Reviewer: ICSE, FSE, ASE, TOSEM, MSR, FCS, JSS (Chinese), etc.
 - Student Volunteer: Internetware 2023
 
-<!-- ***
+
+<!-- ***/
 
 # Experiences
 - Ph.D. Student, Singapore Management University, Aug. 2025 - present
 - Research Engineer, Singapore Management University, Jan. 2025 - present
     - Advisor: [David Lo](http://www.mysmu.edu/faculty/davidlo/)
-- M.E. in Software Engineering, Zhejiang University, Sep. 2022 - Jun 2025
+- M.E. in Software Engineering, Zhejiang University, Sep. 2022 - Jun. 2025
     - Supervisor: [Xing Hu](https://xing-hu.github.io/), Advisor: [Xin Xia](https://xin-xia.github.io/)
 - B.E. in Computer Science, Southwest Jiaotong University, Sep. 2018 - Jun. 2022 -->
