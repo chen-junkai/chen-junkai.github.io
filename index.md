@@ -33,15 +33,6 @@ So many exciting and interesting \\(≧▽≦)/ things are happening in the era 
     | 💻 <a href="" target="_blank">Code: TBD</a>
   </details>
 
-- [Preprint] [**R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation**](https://arxiv.org/abs/2504.04699)\
-  Martin Weyssow, Chengran Yang, **Junkai Chen**, Ratnadira Widyasari, Ting Zhang, Huihui Huang, Huu Hung Nguyen, Yan Naing Tun, Tan Bui, Yikun Li, Ang Han Wei, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.
-  <details style="font-size: 0.7rem; color: #777;">
-    <summary>More</summary>
-    TLDR: Reasoning for vulnerability detection. <br/>
-    📄 <a href="https://arxiv.org/pdf/2504.04699" target="_blank">PDF</a>  
-    | 💻 <a href="https://github.com/martin-wey/R2Vul" target="_blank">Code</a>
-  </details>
-
 - [TOSEM\'26] [**Assessing and Advancing Benchmarks for Evaluating Large Language Models in Software Engineering Tasks**](https://arxiv.org/abs/2505.08903)\
   Xing Hu, Feifei Niu, **Junkai Chen**, Xin Zhou, Junwei Zhang, Junda He, Xin Xia, and David Lo.\
   <span style="color: darkred; font-weight: bold;">🔥 This work is featured by [新智元](https://mp.weixin.qq.com/s/zHVWchAOONC2Y75PvYNDBg) (in Chinese).</span>
@@ -98,7 +89,7 @@ So many exciting and interesting \\(≧▽≦)/ things are happening in the era 
 
 # Other Publications
 
-- [ICSE\'26] [**PenForge: On-the-Fly Expert Agent Construction for Automated Penetration Testing**](https://arxiv.org/abs/2601.06910) \
+- [ICSE\'26 (NIER)] [**PenForge: On-the-Fly Expert Agent Construction for Automated Penetration Testing**](https://arxiv.org/abs/2601.06910) \
 Huihui Huang, Jieke Shi, **Junkai Chen**, Ting Zhang, Yikun Li, Chengran Yang, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.\
   <details style="font-size: 0.7rem; color: #777;">
     <summary>More</summary>
@@ -107,7 +98,7 @@ Huihui Huang, Jieke Shi, **Junkai Chen**, Ting Zhang, Yikun Li, Chengran Yang, E
     | 💻 <a href="https://github.com/huanghuihui0904/PenForge" target="_blank">Code</a>
   </details>
 
-- [ICSE\'26-NIER] [**Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses?**](https://arxiv.org/abs/2507.21817) \
+- [ICSE\'26] [**Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses?**](https://arxiv.org/abs/2507.21817) \
 Yikun Li, Ngoc Tan Bui, Ting Zhang, Chengran Yang, Xin Zhou, Martin Weyssow, Jinfeng Jiang, **Junkai Chen**, Huihui Huang, Huu Hung Nguyen, Chiok Yew Ho, Jie Tan, Ruiyin Li, Yide Yin, Han Wei Ang, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, and David Lo\
   <details style="font-size: 0.7rem; color: #777;">
     <summary>More</summary>
@@ -124,12 +115,21 @@ Yikun Li, Ngoc Tan Bui, Ting Zhang, Chengran Yang, Xin Zhou, Martin Weyssow, Jin
       📄 <a href="https://arxiv.org/pdf/2510.01002" target="_blank">PDF</a>      
     </details>
 
+- [Preprint] [**R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation**](https://arxiv.org/abs/2504.04699)\
+  Martin Weyssow, Chengran Yang, **Junkai Chen**, Ratnadira Widyasari, Ting Zhang, Huihui Huang, Huu Hung Nguyen, Yan Naing Tun, Tan Bui, Yikun Li, Ang Han Wei, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.
+  <details style="font-size: 0.7rem; color: #777;">
+    <summary>More</summary>
+    TLDR: Reasoning for vulnerability detection. <br/>
+    📄 <a href="https://arxiv.org/pdf/2504.04699" target="_blank">PDF</a>  
+    | 💻 <a href="https://github.com/martin-wey/R2Vul" target="_blank">Code</a>
+  </details>
 ***
 
 
 # Awards
 - <span style="color: darkred; font-weight: bold;">ACM SIGSOFT Distinguished Paper Award.</span>, ACM SIGSOFT, 2024
 - National Scholarship, Ministry of Education of P.R.C., 2024
+- SMU SCIS Research Excellence Award, SMU, 2025
 - ACM SIGSOFT CAPS Travel Grant, 2025
 
 ***
