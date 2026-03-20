@@ -81,10 +81,7 @@ So many exciting and interesting \(≧▽≦)/ things are happening in the era o
     | 💻 <a href="https://github.com/iCSawyer/CodeSuggestion" target="_blank">Code</a>
   </details>
 
-
 \* denotes equal contribution.
-
-***
 
 <details>
   <summary><strong>Other Publications</strong></summary>
