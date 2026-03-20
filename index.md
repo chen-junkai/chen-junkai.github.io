@@ -21,7 +21,7 @@ So many exciting and interesting \(≧▽≦)/ things are happening in the era o
 
 ***
 
-# Selected Publications
+# Publications
 
 - [Preprint] [**SecureAgentBench: Benchmarking Secure Code Generation under Realistic Vulnerability Scenarios**](https://www.arxiv.org/abs/2509.22097)\
 **Junkai Chen\***, Huihui Huang\*, Yunbo Lyu, Junwen An, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, Xin Zhou, Xing Hu, and David Lo.
