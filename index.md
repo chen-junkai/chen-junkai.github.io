@@ -34,7 +34,7 @@ So many exciting and interesting \(≧▽≦)/ things are happening in the era o
 
 - [TOSEM\'26] [**Assessing and Advancing Benchmarks for Evaluating Large Language Models in Software Engineering Tasks**](https://arxiv.org/abs/2505.08903)\
   Xing Hu, Feifei Niu, **Junkai Chen**, Xin Zhou, Junwei Zhang, Junda He, Xin Xia, and David Lo.\
-  <span style="color: darkred; font-weight: bold;">🔥 This work is featured by [新智元](https://mp.weixin.qq.com/s/zHVWchAOONC2Y75PvYNDBg) (in Chinese).</span>
+  <span style="color: darkred; font-weight: bold;">🔥 Featured by [新智元](https://mp.weixin.qq.com/s/zHVWchAOONC2Y75PvYNDBg) (in Chinese).</span>
   <details style="font-size: 0.7rem; color: #777;">
     <summary>More</summary>
     TLDR: Literature review on benchmarks of LLM4SE. <br/>
@@ -62,7 +62,7 @@ So many exciting and interesting \(≧▽≦)/ things are happening in the era o
 
 - [ICSE\'25] [**Reasoning Runtime Behavior of a Program with LLM: How Far Are We?**](https://dl.acm.org/doi/10.1109/ICSE55347.2025.00012) \
 **Junkai Chen\***, Zhiyuan Pan\*, Xing Hu, Zhenhao Li, Ge Li, and Xin Xia.\
-<span style="color: darkred; font-weight: bold;">🔥 This work is included in [🤗 HuggingFace/JetBrains-Research](https://huggingface.co/datasets/JetBrains-Research/REval).</span>
+<span style="color: darkred; font-weight: bold;">🔥 Included in [🤗 HuggingFace/JetBrains-Research](https://huggingface.co/datasets/JetBrains-Research/REval).</span>
   <details style="font-size: 0.7rem; color: #777;">
     <summary>More</summary>
     TLDR: Check if LLMs can reason intermediate runtime information of code. <br />
@@ -73,7 +73,7 @@ So many exciting and interesting \(≧▽≦)/ things are happening in the era o
 
 - [ICSE\'24] [**Code Search is All You Need? Improving Code Suggestions with Code Search**](https://dl.acm.org/doi/10.1145/3597503.3639085) \
 **Junkai Chen**, Xing Hu, Zhenhao Li, Cuiyun Gao, Xin Xia, and David Lo.\
-<span style="color: darkred; font-weight: bold;">🏆 ACM SIGSOFT Distinguished Paper Award.</span>
+<span style="color: darkred; font-weight: bold;">🏆 Selected for ACM SIGSOFT Distinguished Paper Award.</span>
   <details style="font-size: 0.7rem; color: #777;">
     <summary>More</summary>
     TLDR: Combine different code search methods with code suggestions. <br />
@@ -81,13 +81,11 @@ So many exciting and interesting \(≧▽≦)/ things are happening in the era o
     | 💻 <a href="https://github.com/iCSawyer/CodeSuggestion" target="_blank">Code</a>
   </details>
 
-\* denotes equal contribution.
-
 <details>
   <summary><strong>Other Publications</strong></summary>
 
   - [ICSE\'26 (NIER)] [**PenForge: On-the-Fly Expert Agent Construction for Automated Penetration Testing**](https://arxiv.org/abs/2601.06910) \
-  Huihui Huang, Jieke Shi, **Junkai Chen**, Ting Zhang, Yikun Li, Chengran Yang, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.\
+  Huihui Huang, Jieke Shi, **Junkai Chen**, Ting Zhang, Yikun Li, Chengran Yang, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.
     <details style="font-size: 0.7rem; color: #777;">
       <summary>More</summary>
       TLDR: Pentesting with on-the-fly expert agents.<br/>
@@ -96,7 +94,7 @@ So many exciting and interesting \(≧▽≦)/ things are happening in the era o
     </details>
 
   - [ICSE\'26] [**Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses?**](https://arxiv.org/abs/2507.21817) \
-  Yikun Li, Ngoc Tan Bui, Ting Zhang, Chengran Yang, Xin Zhou, Martin Weyssow, Jinfeng Jiang, **Junkai Chen**, Huihui Huang, Huu Hung Nguyen, Chiok Yew Ho, Jie Tan, Ruiyin Li, Yide Yin, Han Wei Ang, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, and David Lo\
+  Yikun Li, Ngoc Tan Bui, Ting Zhang, Chengran Yang, Xin Zhou, Martin Weyssow, Jinfeng Jiang, **Junkai Chen**, Huihui Huang, Huu Hung Nguyen, Chiok Yew Ho, Jie Tan, Ruiyin Li, Yide Yin, Han Wei Ang, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.
     <details style="font-size: 0.7rem; color: #777;">
       <summary>More</summary>
       TLDR: New vulnerability datasets: TitanVul and BenchVul. <br/>
@@ -105,7 +103,7 @@ So many exciting and interesting \(≧▽≦)/ things are happening in the era o
     </details>
 
   - [Preprint] [**Semantics-Aligned, Curriculum-Driven, and Reasoning-Enhanced Vulnerability Repair Framework**](https://arxiv.org/abs/2510.01002) \
-    Chengran Yang, Ting Zhang, Jinfeng Jiang, Xin Zhou, Haoye Tian, Mingzhe Du, Jieke Shi, **Junkai Chen**, Yikun Li, Eng Lieh Ouh, Lwin Khin Shar, David Lo
+    Chengran Yang, Ting Zhang, Jinfeng Jiang, Xin Zhou, Haoye Tian, Mingzhe Du, Jieke Shi, **Junkai Chen**, Yikun Li, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.
       <details style="font-size: 0.7rem; color: #777;">
         <summary>More</summary>
         TLDR: Vulnerability repair with code semantic-based RL.<br/> 
@@ -122,6 +120,8 @@ So many exciting and interesting \(≧▽≦)/ things are happening in the era o
     </details>
 
 </details>
+
+\* denotes equal contribution.
 
 ***
 
