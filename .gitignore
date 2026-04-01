@@ -1,10 +1,12 @@
 *.gem
 *.sublime-project
 *.sublime-workspace
-.bundle
+.bundle/*
+!.bundle/config
 .DS_Store
 .jekyll-metadata
 .sass-cache
+vendor/bundle
 _asset_bundler_cache
 _site
 codekit-config.json
