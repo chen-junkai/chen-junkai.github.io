@@ -23,13 +23,22 @@ So many exciting and interesting \(≧▽≦)/ things are happening in the era o
 
 # Publications
 
-- [Preprint] [**SecureAgentBench: Benchmarking Secure Code Generation under Realistic Vulnerability Scenarios**](https://www.arxiv.org/abs/2509.22097)\
+- [Preprint] [**SecureVibeBench: Benchmarking Secure Code Generation under Realistic Vulnerability Scenarios**](https://www.arxiv.org/abs/2509.22097)\
 **Junkai Chen\***, Huihui Huang\*, Yunbo Lyu, Junwen An, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, Xin Zhou, Xing Hu, and David Lo.
   <details style="font-size: 0.7rem; color: #777;">
     <summary>More</summary>
     TLDR: First secure coding benchmark for vibe coding. <br/>
     📄 <a href="https://www.arxiv.org/pdf/2509.22097" target="_blank">PDF</a>  
     | 💻 <a href="" target="_blank">Code: TBD</a>
+  </details>
+
+- [Preprint] [**R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation**](https://arxiv.org/abs/2504.04699)<br/>
+Martin Weyssow, Chengran Yang, **Junkai Chen**, Ratnadira Widyasari, Ting Zhang, Huihui Huang, Huu Hung Nguyen, Yan Naing Tun, Tan Bui, Yikun Li, Ang Han Wei, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.
+  <details style="font-size: 0.7rem; color: #777;">
+    <summary>More</summary>
+    TLDR: Reasoning for vulnerability detection. <br/>
+    📄 <a href="https://arxiv.org/pdf/2504.04699" target="_blank">PDF</a>
+    | 💻 <a href="https://github.com/martin-wey/R2Vul" target="_blank">Code</a>
   </details>
 
 - [TOSEM\'26] [**Assessing and Advancing Benchmarks for Evaluating Large Language Models in Software Engineering Tasks**](https://arxiv.org/abs/2505.08903)\
@@ -73,7 +82,7 @@ So many exciting and interesting \(≧▽≦)/ things are happening in the era o
 
 - [ICSE\'24] [**Code Search is All You Need? Improving Code Suggestions with Code Search**](https://dl.acm.org/doi/10.1145/3597503.3639085) \
 **Junkai Chen**, Xing Hu, Zhenhao Li, Cuiyun Gao, Xin Xia, and David Lo.\
-<span style="color: darkred; font-weight: bold;">🏆 Selected for ACM SIGSOFT Distinguished Paper Award.</span>
+<span style="color: darkred; font-weight: bold;">🏆 Selected for an ACM SIGSOFT Distinguished Paper Award.</span>
   <details style="font-size: 0.7rem; color: #777;">
     <summary>More</summary>
     TLDR: Combine different code search methods with code suggestions. <br />
@@ -108,15 +117,6 @@ Chengran Yang, Ting Zhang, Jinfeng Jiang, Xin Zhou, Haoye Tian, Mingzhe Du, Jiek
     <summary>More</summary>
     TLDR: Vulnerability repair with code semantic-based RL.<br/>
     📄 <a href="https://arxiv.org/pdf/2510.01002" target="_blank">PDF</a>
-  </details>
-
-- [Preprint] [**R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation**](https://arxiv.org/abs/2504.04699)<br/>
-Martin Weyssow, Chengran Yang, **Junkai Chen**, Ratnadira Widyasari, Ting Zhang, Huihui Huang, Huu Hung Nguyen, Yan Naing Tun, Tan Bui, Yikun Li, Ang Han Wei, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.
-  <details style="font-size: 0.7rem; color: #777;">
-    <summary>More</summary>
-    TLDR: Reasoning for vulnerability detection. <br/>
-    📄 <a href="https://arxiv.org/pdf/2504.04699" target="_blank">PDF</a>
-    | 💻 <a href="https://github.com/martin-wey/R2Vul" target="_blank">Code</a>
   </details>
 
 </details>
