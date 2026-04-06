@@ -14,7 +14,7 @@ So many exciting and interesting \(≧▽≦)/ things are happening in the era o
 
 # News
 
-- \[4/7/2026\] [SecureVibeBecnh](https://arxiv.org/abs/2509.22097) is accepted by ACL 2026 main conference. 
+- \[4/7/2026\] [SecureVibeBecnh](https://arxiv.org/abs/2509.22097) and [SeCuRepair](https://arxiv.org/abs/2510.01002) are accepted by ACL 2026 main conference. 
 - 🤗 Feel free to check and contribute recent SE conference papers at [**SEConfPaperList**](https://github.com/iCSawyer/SEConfPaperList) 〰️
 
 ***
@@ -91,6 +91,14 @@ Martin Weyssow, Chengran Yang, **Junkai Chen**, Ratnadira Widyasari, Ting Zhang,
 <details markdown="block">
   <summary><strong>Other Publications</strong></summary>
 
+- [ACL\'26 Main] [**SeCuRepair: Semantics-Aligned, Curriculum-Driven, and Reasoning-Enhanced Vulnerability Repair Framework**](https://arxiv.org/abs/2510.01002)<br/>
+Chengran Yang, Ting Zhang, Jinfeng Jiang, Xin Zhou, Haoye Tian, Mingzhe Du, Jieke Shi, **Junkai Chen**, Yikun Li, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.
+  <details style="font-size: 0.7rem; color: #777;">
+    <summary>More</summary>
+    TLDR: Vulnerability repair with code semantic-based RL.<br/>
+    📄 <a href="https://arxiv.org/pdf/2510.01002" target="_blank">PDF</a>
+  </details>
+
 - [ICSE\'26 (NIER)] [**PenForge: On-the-Fly Expert Agent Construction for Automated Penetration Testing**](https://arxiv.org/abs/2601.06910)<br/>
 Huihui Huang, Jieke Shi, **Junkai Chen**, Ting Zhang, Yikun Li, Chengran Yang, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.
   <details style="font-size: 0.7rem; color: #777;">
@@ -107,14 +115,6 @@ Yikun Li, Ngoc Tan Bui, Ting Zhang, Chengran Yang, Xin Zhou, Martin Weyssow, Jin
     TLDR: New vulnerability datasets: TitanVul and BenchVul. <br/>
     📄 <a href="https://arxiv.org/abs/2507.21817" target="_blank">PDF</a>
     | 💻 <a href="https://github.com/yikun-li/TitanVul-BenchVul" target="_blank">Code</a>
-  </details>
-
-- [Preprint] [**Semantics-Aligned, Curriculum-Driven, and Reasoning-Enhanced Vulnerability Repair Framework**](https://arxiv.org/abs/2510.01002)<br/>
-Chengran Yang, Ting Zhang, Jinfeng Jiang, Xin Zhou, Haoye Tian, Mingzhe Du, Jieke Shi, **Junkai Chen**, Yikun Li, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.
-  <details style="font-size: 0.7rem; color: #777;">
-    <summary>More</summary>
-    TLDR: Vulnerability repair with code semantic-based RL.<br/>
-    📄 <a href="https://arxiv.org/pdf/2510.01002" target="_blank">PDF</a>
   </details>
 
 </details>
