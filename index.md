@@ -14,16 +14,14 @@ So many exciting and interesting \(≧▽≦)/ things are happening in the era o
 
 # News
 
-- \[26/9/25\] 😆 Check our lastest [preprint](https://arxiv.org/abs/2509.22097) for evaluating 🔐 secure vide coding of code agents! <span style="color: darkred; font-weight: bold;">We surprisingly find that, given the historical context of vulnerability introduction, current code agents still fall into human failures, even inducing other security issue!</span> 
-
+- \[4/7/2026\] [SecureVibeBecnh](https://arxiv.org/abs/2509.22097) is accepted by ACL 2026 main conference. 
 - 🤗 Feel free to check and contribute recent SE conference papers at [**SEConfPaperList**](https://github.com/iCSawyer/SEConfPaperList) 〰️
-
 
 ***
 
 # Publications
 
-- [Preprint] [**SecureVibeBench: Benchmarking Secure Code Generation under Realistic Vulnerability Scenarios**](https://www.arxiv.org/abs/2509.22097)\
+- [ACL\'26 Main] [**SecureVibeBench: Benchmarking Secure Code Generation under Realistic Vulnerability Scenarios**](https://www.arxiv.org/abs/2509.22097)\
 **Junkai Chen\***, Huihui Huang\*, Yunbo Lyu, Junwen An, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, Xin Zhou, Xing Hu, and David Lo.
   <details style="font-size: 0.7rem; color: #777;">
     <summary>More</summary>
