@@ -27,7 +27,7 @@ So many exciting and interesting \(≧▽≦)/ things are happening in the era o
     <summary>More</summary>
     TLDR: First secure coding benchmark for vibe coding. <br/>
     📄 <a href="https://www.arxiv.org/pdf/2509.22097" target="_blank">PDF</a>  
-    | 💻 <a href="" target="_blank">Code: TBD</a>
+    | 💻 <a href="https://github.com/iCSawyer/SecureVibeBench" target="_blank">Code</a>
   </details>
 
 - [Preprint] [**R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation**](https://arxiv.org/abs/2504.04699)<br/>
