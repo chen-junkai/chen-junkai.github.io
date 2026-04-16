@@ -19,8 +19,8 @@ $border-color: #e5e5e5;
 @import "minimal-mistakes"; // main partials
 
 html {
-  font-size: 16px;
-  @media (min-width: 1024px) { font-size: 17px; }
+  font-size: 14.4px;
+  @media (min-width: 1024px) { font-size: 15.3px; }
 }
 
 body {
@@ -240,9 +240,24 @@ a {
 
 /* ── Layout ── */
 
+@media (min-width: 64em) {
+  .page {
+    float: right;
+    width: calc(100% - #{$right-sidebar-width-narrow});
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 80em) {
+  .page {
+    width: calc(100% - #{$right-sidebar-width});
+    padding-right: 0;
+  }
+}
+
 @media (min-width: 1024px) {
   .page__inner-wrap {
-    padding-left: 2.5em;
+    padding-left: 0;
     padding-right: 1.5em;
   }
 }
