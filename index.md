@@ -27,7 +27,7 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
 # Publications
 
 - [**SecureVibeBench: Benchmarking Secure Code Generation under Realistic Vulnerability Scenarios**](https://www.arxiv.org/abs/2509.22097)<br/>
-  **Junkai Chen**, Huihui Huang, Yunbo Lyu, Junwen An, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, Xin Zhou, Xing Hu, and David Lo.<br/>
+  **Junkai Chen***, Huihui Huang*, Yunbo Lyu, Junwen An, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, Xin Zhou, Xing Hu, and David Lo.<br/>
   <span class="pub-venue">ACL 2026 Main</span> <span class="pub-venue-full">The 64th Annual Meeting of the Association for Computational Linguistics</span><br/>
   [<a href="https://www.arxiv.org/pdf/2509.22097" target="_blank">PDF</a>][<a href="https://github.com/iCSawyer/SecureVibeBench" target="_blank">Code</a>]
 
@@ -48,17 +48,17 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
   <span class="pub-note">This paper is featured by 🔥 <a href="https://mp.weixin.qq.com/s/zHVWchAOONC2Y75PvYNDBg">[新智元]</a> (in Chinese).</span>
 
 - [**NLPerturbator: Studying the Robustness of Code LLMs to Natural Language Variations**](https://dl.acm.org/doi/10.1145/3745764)<br/>
-  **Junkai Chen**, Zhenhao Li, Xing Hu, and Xin Xia.<br/>
+  **Junkai Chen***, Zhenhao Li*, Xing Hu, and Xin Xia.<br/>
   <span class="pub-venue">TOSEM 2025</span> <span class="pub-venue-full">ACM Transactions on Software Engineering and Methodology</span><br/>
   [<a href="https://dl.acm.org/doi/abs/10.1145/3745764" target="_blank">PDF</a>][<a href="https://github.com/iCSawyer/NLPerturbator" target="_blank">Code</a>]
 
 - [**Understanding Practitioners' Expectations on Clear Code Review Comments**](https://dl.acm.org/doi/10.1145/3728931)<br/>
-  **Junkai Chen**, Zhenhao Li, Qiheng Mao, Xing Hu, Kui Liu, and Xin Xia.<br/>
+  **Junkai Chen***, Zhenhao Li*, Qiheng Mao, Xing Hu, Kui Liu, and Xin Xia.<br/>
   <span class="pub-venue">ISSTA 2025</span> <span class="pub-venue-full">The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis</span><br/>
   [<a href="https://arxiv.org/pdf/2410.06515" target="_blank">PDF</a>][<a href="https://github.com/iCSawyer/ClearCRC" target="_blank">Code</a>]
 
 - [**Reasoning Runtime Behavior of a Program with LLM: How Far Are We?**](https://dl.acm.org/doi/10.1109/ICSE55347.2025.00012)<br/>
-  **Junkai Chen**, Zhiyuan Pan, Xing Hu, Zhenhao Li, Ge Li, and Xin Xia.<br/>
+  **Junkai Chen***, Zhiyuan Pan*, Xing Hu, Zhenhao Li, Ge Li, and Xin Xia.<br/>
   <span class="pub-venue">ICSE 2025</span> <span class="pub-venue-full">The 47th IEEE/ACM International Conference on Software Engineering</span><br/>
   [<a href="https://arxiv.org/pdf/2403.16437.pdf" target="_blank">PDF</a>][<a href="https://github.com/r-eval/r-eval.github.io" target="_blank">Code</a>]<br/>
   <span class="pub-note">REval proposed in this paper is included in 🔥 <a href="https://huggingface.co/datasets/JetBrains-Research/REval">[HuggingFace/JetBrains-Research]</a>.</span>
