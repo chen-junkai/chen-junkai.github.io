@@ -18,6 +18,7 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
 # News
 
 - <span style="color: darkred; font-weight: bold;">[2026-04-14] The first benchmark for secure vibe coding of AI agents, [SecureVibeBench](https://github.com/iCSawyer/SecureVibeBench), is now available on GitHub and 🤗 Hugging Face!</span>
+- [2026-04-16] One paper was accepted by ISSTA 2026. 
 - [2026-04-07] Two papers were accepted by ACL 2026 Main Conference. 
 - 📌 Check latest SE conference papers at [**SEConfPaperList**](https://github.com/iCSawyer/SEConfPaperList)~.
 
@@ -29,6 +30,11 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
   **Junkai Chen**, Huihui Huang, Yunbo Lyu, Junwen An, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, Xin Zhou, Xing Hu, and David Lo.<br/>
   <span class="pub-venue">ACL 2026 Main</span> <span class="pub-venue-full">The 64th Annual Meeting of the Association for Computational Linguistics</span><br/>
   [<a href="https://www.arxiv.org/pdf/2509.22097" target="_blank">PDF</a>][<a href="https://github.com/iCSawyer/SecureVibeBench" target="_blank">Code</a>]
+
+- [**An Empirical Study of Speculative Decoding on Software Engineering Tasks**](https://www.arxiv.org/abs/2509.22097)<br/>
+  Yijia Li, **Junkai Chen**, Xing Hu, and Xin Xia.<br/>
+  <span class="pub-venue">ISSTA 2026</span> <span class="pub-venue-full">The 35TH ACM SIGSOFT International Symposium on Software Testing and Analysis</span><br/>
+  [PDF: TBD][Code: TBD]
 
 - [**R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation**](https://arxiv.org/abs/2504.04699)<br/>
   Martin Weyssow, Chengran Yang, **Junkai Chen**, Ratnadira Widyasari, Ting Zhang, Huihui Huang, Huu Hung Nguyen, Yan Naing Tun, Tan Bui, Yikun Li, Ang Han Wei, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.<br/>
