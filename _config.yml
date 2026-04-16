@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junkai Chen"
+title                    : "Junkai Chen's Homepage"
 title_separator          : "|"
 name                     : "Junkai Chen"
 description              : "Junkai Chen's personal website" 
@@ -102,8 +102,8 @@ analytics:
 author:
   name             : "Junkai Chen"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
-  location         : "Singapore"
+  bio              : "Ph.D. Student in Computer Science<br/>School of Computing and Information Systems<br/>Singapore Management University"
+  location         : #"Singapore"
   email            : "junkaichen2000@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -120,7 +120,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "junkai-chen-79101a295" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "junkai-chen-79101a295" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)

@@ -12,8 +12,6 @@ main:
     url: \#awards
   - title: "Services"
     url: \#services
-  - title: "Experiences"
-    url: \#experiences
   # - title: "Blog" #Max's blog, already finished, just unpublished
   #  url: /blog/
   # - title: "Sitemap"

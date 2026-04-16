@@ -4,67 +4,277 @@
 
 @charset "utf-8";
 
-/* Override default variables before importing theme */
-$x-large: 1800px;                    // Increase max width (default 1440px)
-$right-sidebar-width-narrow: 150px;  // Reduce left sidebar width to expand center column
-$right-sidebar-width: 180px;         // Reduce left sidebar width for x-large screens
-$link-color: #0066CC;                // Custom link color
-//$link-color: #1772d0;
-//$link-color: #f09228;
+$global-font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+$header-font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+$x-large: 1500px;
+$right-sidebar-width-narrow: 300px;
+$right-sidebar-width: 320px;
+$text-color: #222;
+$link-color: #2a5db0;
+$link-color-hover: #1a3d78;
+$link-color-visited: #2a5db0;
+$border-color: #e5e5e5;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-/* Desktop optimization */
-@media (min-width: 1024px) {
-  .page__content {
-    /* Font size */
-    p, li, dl {
-      font-size: 0.9em;
-      line-height: 1.7;
-    }
-    
-    /* Paragraph spacing */
-    p {
-      margin-bottom: 1.2em;
-    }
-    
-    /* List spacing */
-    ul, ol {
-      margin-bottom: 1.2em;
-    }
-    
-    li {
-      margin-bottom: 0.4em;
-    }
-    
-    /* Heading spacing */
-    h1, h2, h3, h4, h5, h6 {
-      margin-top: 1.8em;
-      margin-bottom: 0.6em;
-      line-height: 1.3;
-    }
-    
-    /* First heading adjustment */
-    > h1:first-child,
-    > h2:first-child,
-    > h3:first-child {
-      margin-top: 0.5em;
+html {
+  font-size: 16px;
+  @media (min-width: 1024px) { font-size: 17px; }
+}
+
+body {
+  line-height: 1.72;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background: rgba($link-color, 0.13);
+  color: inherit;
+}
+
+a {
+  transition: color 0.15s ease;
+  &:visited { color: $link-color; }
+}
+
+.page__content a:not(.btn):hover {
+  text-decoration: none;
+  color: $link-color-hover;
+}
+
+/* ── Page content ── */
+
+.page__content {
+
+  /* Body text */
+  p, li, dl {
+    font-size: 0.95rem;
+    line-height: 1.75;
+    color: #333;
+  }
+
+  p { margin-bottom: 0.9em; }
+
+  /* Lists: replace default bullets with small dots */
+  > ul, > ol {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0.8em;
+  }
+
+  > ul > li {
+    position: relative;
+    padding-left: 1.1em;
+    margin-bottom: 0.4em;
+    &::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0.62em;
+      width: 4px;
+      height: 4px;
+      border-radius: 50%;
+      background: #aaa;
     }
   }
-  
-  /* Side margins */
+
+  /* Publication entries */
+  > ul > li:has(.pub-venue) {
+    margin-bottom: 0;
+    padding-top: 0.8em;
+    padding-bottom: 0.8em;
+    border-bottom: 1px solid #ebebeb;
+    &::before { top: calc(0.8em + 0.62em); }
+    &:first-child { padding-top: 0; }
+    &:first-child::before { top: 0.62em; }
+    &:last-child { border-bottom: none; }
+  }
+
+  /* Section headings */
+  h1 {
+    font-size: 1.08rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: $text-color;
+    margin-top: 0;
+    margin-bottom: 1em;
+    &::after {
+      content: "";
+      display: block;
+      width: 28px;
+      height: 2px;
+      background: $text-color;
+      margin-top: 0.45em;
+    }
+  }
+
+  > h1:first-child { margin-top: 0; }
+
+  h2 {
+    font-size: 0.95rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    color: $text-color;
+    margin-top: 1.8em;
+    margin-bottom: 0.6em;
+    padding-bottom: 0;
+    border-bottom: none;
+  }
+
+  h3 {
+    font-size: 0.85rem;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    color: #444;
+    text-transform: uppercase;
+    margin-top: 1.4em;
+    margin-bottom: 0.4em;
+  }
+
+  /* Full conference name */
+  .pub-venue-full {
+    font-size: 0.8rem;
+    color: #888;
+  }
+
+  /* Short venue tag (e.g. "ACL 2026 Main") */
+  .pub-venue {
+    font-size: 0.88rem;
+    color: $text-color;
+    font-weight: 600;
+  }
+
+  /* Publication special note */
+  .pub-note {
+    display: block;
+    font-size: 0.88rem;
+    font-weight: 600;
+    color: darkred;
+    margin-top: 0.15em;
+    a, a:visited, a:hover { color: darkred; }
+  }
+
+  /* Collapsible section styled as h1 */
+  details.pub-section {
+    margin-top: 0;
+
+    > summary.section-heading {
+      font-size: 1.08rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: $text-color;
+      cursor: pointer;
+      list-style: none;
+      margin-bottom: 1em;
+      &::-webkit-details-marker { display: none; }
+      &::after {
+        content: "";
+        display: block;
+        width: 28px;
+        height: 2px;
+        background: $text-color;
+        margin-top: 0.45em;
+      }
+      &:hover { opacity: 0.7; }
+
+      .expand-hint {
+        font-size: 0.72rem;
+        font-weight: 400;
+        letter-spacing: 0.02em;
+        text-transform: none;
+        color: #999;
+      }
+    }
+
+    &[open] > summary.section-heading .expand-hint {
+      display: none;
+    }
+  }
+
+  /* Section dividers: whitespace only */
+  hr {
+    border: none;
+    margin: 2.2em 0 0.4em;
+    height: 0;
+  }
+}
+
+/* ── Sidebar ── */
+
+@media (max-width: 1023px) {
+  .sidebar {
+    display: none;
+  }
+}
+
+.sidebar .author__name {
+  font-size: 1.15rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.sidebar .author__bio {
+  font-size: 0.78rem;
+  line-height: 2;
+  color: #555;
+  margin-top: 0.8em;
+  padding-top: 0.8em;
+  border-top: 1px solid #e5e5e5;
+  margin-bottom: 0.8em;
+  padding-bottom: 0.8em;
+  border-bottom: 1px solid #e5e5e5;
+  letter-spacing: 0.01em;
+}
+
+.sidebar .author__urls.social-icons a {
+  margin-bottom: 0.5em;
+  display: block;
+}
+
+.page__title { display: none; }
+
+/* ── Layout ── */
+
+@media (min-width: 1024px) {
   .page__inner-wrap {
     padding-left: 2.5em;
-    padding-right: 2.5em;
+    padding-right: 1.5em;
   }
-  
-  /* Publication list items - larger spacing for items with details */
-  .page__content li details {
-    margin-top: 0.5em;
+}
+
+/* ── Masthead ── */
+
+.masthead {
+  border-bottom: 1px solid #e5e5e5;
+
+  &__inner-wrap {
+    padding-top: 1.1em;
+    padding-bottom: 1.1em;
   }
-  
-  .page__content li:has(details) {
-    margin-bottom: 2em;
+
+  .greedy-nav a {
+    font-weight: 500;
+    font-size: 1.1rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
   }
+
+  .site-title {
+    font-weight: 600;
+    font-size: 1.2rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+}
+
+/* ── Footer ── */
+
+.page__footer {
+  font-size: 0.75rem;
+  letter-spacing: 0.02em;
 }
