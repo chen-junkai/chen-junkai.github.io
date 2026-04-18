@@ -30,7 +30,7 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
   **Junkai Chen\***, Huihui Huang\*, Yunbo Lyu, Junwen An, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, Xin Zhou, Xing Hu, and David Lo.<br/>
   <span class="pub-venue">ACL 2026 Main</span> <span class="pub-venue-full">The 64th Annual Meeting of the Association for Computational Linguistics</span><br/>
   [<a href="https://www.arxiv.org/pdf/2509.22097" target="_blank">PDF</a>][<a href="https://github.com/iCSawyer/SecureVibeBench" target="_blank">Code</a>][<a href="https://huggingface.co/datasets/iCSawyer/SecureVibeBench" target="_blank">Dataset</a>]
-  <span class="pub-note">🔥 First SWE-bench-level benchmark for secure vibe coding.</span>
+  <span class="pub-note">🔥 First SWE-bench-level benchmark for **secure vibe coding**.</span>
 
 - [**NLPerturbator: Studying the Robustness of Code LLMs to Natural Language Variations**](https://dl.acm.org/doi/10.1145/3745764)<br/>
   **Junkai Chen\***, Zhenhao Li\*, Xing Hu, and Xin Xia.<br/>
@@ -46,19 +46,19 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
   **Junkai Chen\***, Zhiyuan Pan\*, Xing Hu, Zhenhao Li, Ge Li, and Xin Xia.<br/>
   <span class="pub-venue">ICSE 2025</span> <span class="pub-venue-full">The 47th IEEE/ACM International Conference on Software Engineering</span><br/>
   [<a href="https://arxiv.org/pdf/2403.16437.pdf" target="_blank">PDF</a>][<a href="https://github.com/r-eval/r-eval.github.io" target="_blank">Code</a>][<a href="https://huggingface.co/datasets/JetBrains-Research/REval" target="_blank">Dataset</a>]<br/>
-  <span class="pub-note">🔥This work is included in <a href="https://huggingface.co/datasets/JetBrains-Research/REval">[🤗 JetBrains-Research/REval]</a>.</span>
+  <span class="pub-note">🔥This work is included in <a href="https://huggingface.co/datasets/JetBrains-Research/REval">**[🤗 JetBrains-Research/REval]**</a>.</span>
 
 - [**Code Search is All You Need? Improving Code Suggestions with Code Search**](https://dl.acm.org/doi/10.1145/3597503.3639085)<br/>
   **Junkai Chen**, Xing Hu, Zhenhao Li, Cuiyun Gao, Xin Xia, and David Lo.<br/>
   <span class="pub-venue">ICSE 2024</span> <span class="pub-venue-full">The 46th IEEE/ACM International Conference on Software Engineering</span><br/>
   [<a href="https://ginolzh.github.io/papers/ICSE2024_Code_Suggestion.pdf" target="_blank">PDF</a>][<a href="https://github.com/iCSawyer/CodeSuggestion" target="_blank">Code</a>]<br/>
-  <span class="pub-note">🏆 This paper won an ACM SIGSOFT Distinguished Paper Award.</span>
+  <span class="pub-note">🏆 This paper won an **ACM SIGSOFT Distinguished Paper Award**.</span>
 
 - [**R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation**](https://arxiv.org/abs/2504.04699)<br/>
   Martin Weyssow, Chengran Yang, **Junkai Chen**, Ratnadira Widyasari, Ting Zhang, Huihui Huang, Huu Hung Nguyen, Yan Naing Tun, Tan Bui, Yikun Li, Ang Han Wei, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.<br/>
   <span class="pub-venue">Preprint</span><br/>
   [<a href="https://arxiv.org/pdf/2504.04699" target="_blank">PDF</a>][<a href="https://github.com/martin-wey/R2Vul" target="_blank">Code</a>]
-  <span class="pub-note">🔥 One of the top-liked papers in software engineering at [[alphaXiv]](https://www.alphaxiv.org/?subcategories=%5B%22software-engineering%22%5D&sort=Likes).</span>
+  <span class="pub-note">🔥 One of the top-liked papers in software engineering at [**[alphaXiv]**](https://www.alphaxiv.org/?subcategories=%5B%22software-engineering%22%5D&sort=Likes).</span>
 
 - [**An Empirical Study of Speculative Decoding on Software Engineering Tasks**](https://www.arxiv.org/abs/2509.22097)<br/>
   Yijia Li, **Junkai Chen**, Xing Hu, and Xin Xia.<br/>
@@ -69,7 +69,7 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
   Xing Hu, Feifei Niu, **Junkai Chen**, Xin Zhou, Junwei Zhang, Junda He, Xin Xia, and David Lo.<br/>
   <span class="pub-venue">TOSEM 2026</span> <span class="pub-venue-full">ACM Transactions on Software Engineering and Methodology</span><br/>
   [<a href="https://arxiv.org/pdf/2505.08903" target="_blank">PDF</a>][<a href="https://github.com/LLM4SE-Benchmarks/LLM4SE-Benchmarks" target="_blank">Code</a>]<br/>
-  <span class="pub-note">🔥 This paper is featured by <a href="https://mp.weixin.qq.com/s/zHVWchAOONC2Y75PvYNDBg">[新智元]</a> (in Chinese).</span>
+  <span class="pub-note">🔥 This paper is featured by <a href="https://mp.weixin.qq.com/s/zHVWchAOONC2Y75PvYNDBg">[**新智元**]</a> (in Chinese).</span>
 
 
 <details class="pub-section" markdown="block">
