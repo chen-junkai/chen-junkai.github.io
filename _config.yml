@@ -148,18 +148,25 @@ exclude:
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
+  - banner.js
   - Capfile
   - CHANGELOG
+  - CLAUDE.md
   - config
   - Gemfile
+  - Gemfile.lock
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
+  - LICENSE.txt
   - log
   - node_modules
   - package.json
+  - package-lock.json
   - Rakefile
   - README
+  - README.md
+  - staticman.yml
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
