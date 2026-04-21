@@ -26,24 +26,24 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
 # Selected Publications
 
 - [**SecureVibeBench: Benchmarking Secure Vibe Coding of AI Agents via Reconstructing Vulnerability-Introducing Scenarios**](https://www.arxiv.org/abs/2509.22097)<br/>
-  **Junkai Chen\***, Huihui Huang\*, Yunbo Lyu, Junwen An, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, Xin Zhou, Xing Hu, and David Lo.<br/>
+  <strong>Junkai Chen<span class="eq-contrib">*</span></strong>, Huihui Huang<span class="eq-contrib">*</span>, Yunbo Lyu, Junwen An, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, Xin Zhou, Xing Hu, and David Lo.<br/>
   <span class="pub-venue">ACL 2026 Main</span> <span class="pub-venue-full">The 64th Annual Meeting of the Association for Computational Linguistics</span><br/>
   [<a href="https://www.arxiv.org/pdf/2509.22097" target="_blank">PDF</a>][<a href="https://github.com/iCSawyer/SecureVibeBench" target="_blank">Code</a>][<a href="https://huggingface.co/datasets/iCSawyer/SecureVibeBench" target="_blank">Dataset</a>]
   <span class="pub-note">🔥 First SWE-bench-level benchmark for secure vibe coding.</span>
 
 - [**Reasoning Runtime Behavior of a Program with LLM: How Far Are We?**](https://dl.acm.org/doi/10.1109/ICSE55347.2025.00012)<br/>
-  **Junkai Chen\***, Zhiyuan Pan\*, Xing Hu, Zhenhao Li, Ge Li, and Xin Xia.<br/>
+  <strong>Junkai Chen<span class="eq-contrib">*</span></strong>, Zhiyuan Pan<span class="eq-contrib">*</span>, Xing Hu, Zhenhao Li, Ge Li, and Xin Xia.<br/>
   <span class="pub-venue">ICSE 2025</span> <span class="pub-venue-full">The 47th IEEE/ACM International Conference on Software Engineering</span><br/>
   [<a href="https://arxiv.org/pdf/2403.16437.pdf" target="_blank">PDF</a>][<a href="https://github.com/r-eval/r-eval.github.io" target="_blank">Code</a>][<a href="https://huggingface.co/datasets/JetBrains-Research/REval" target="_blank">Dataset</a>]<br/>
   <span class="pub-note">🔥This work is included in <a href="https://huggingface.co/datasets/JetBrains-Research/REval">[🤗 JetBrains-Research/REval]</a>.</span>
 
 - [**NLPerturbator: Studying the Robustness of Code LLMs to Natural Language Variations**](https://dl.acm.org/doi/10.1145/3745764)<br/>
-  **Junkai Chen\***, Zhenhao Li\*, Xing Hu, and Xin Xia.<br/>
+  <strong>Junkai Chen<span class="eq-contrib">*</span></strong>, Zhenhao Li<span class="eq-contrib">*</span>, Xing Hu, and Xin Xia.<br/>
   <span class="pub-venue">TOSEM 2025</span> <span class="pub-venue-full">ACM Transactions on Software Engineering and Methodology</span><br/>
   [<a href="https://dl.acm.org/doi/abs/10.1145/3745764" target="_blank">PDF</a>][<a href="https://github.com/iCSawyer/NLPerturbator" target="_blank">Code</a>]
 
 - [**Understanding Practitioners' Expectations on Clear Code Review Comments**](https://dl.acm.org/doi/10.1145/3728931)<br/>
-  **Junkai Chen\***, Zhenhao Li\*, Qiheng Mao, Xing Hu, Kui Liu, and Xin Xia.<br/>
+  <strong>Junkai Chen<span class="eq-contrib">*</span></strong>, Zhenhao Li<span class="eq-contrib">*</span>, Qiheng Mao, Xing Hu, Kui Liu, and Xin Xia.<br/>
   <span class="pub-venue">ISSTA 2025</span> <span class="pub-venue-full">The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis</span><br/>
   [<a href="https://arxiv.org/pdf/2410.06515" target="_blank">PDF</a>][<a href="https://github.com/iCSawyer/ClearCRC" target="_blank">Code</a>]
 
@@ -54,8 +54,8 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
   <span class="pub-note">🏆 This paper won an ACM SIGSOFT Distinguished Paper Award.</span>
 
 - [**R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation**](https://arxiv.org/abs/2504.04699)<br/>
-  Martin Weyssow, Chengran Yang, **Junkai Chen**, Ratnadira Widyasari, Ting Zhang, Huihui Huang, Huu Hung Nguyen, Yan Naing Tun, Tan Bui, Yikun Li, Ang Han Wei, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.<br/>
-  <span class="pub-venue">Preprint</span><br/>
+  Martin Weyssow, Chengran Yang, <strong>Junkai Chen<span class="corresp">📧</span></strong>, Ratnadira Widyasari, Ting Zhang, Huihui Huang, Huu Hung Nguyen, Yan Naing Tun, Tan Bui, Yikun Li, Ang Han Wei, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.<br/>
+  <span class="pub-venue">Under review at TOSEM</span> <span class="pub-venue-full">Under review at ACM Transactions on Software Engineering and Methodology</span><br/>
   [<a href="https://arxiv.org/pdf/2504.04699" target="_blank">PDF</a>][<a href="https://github.com/martin-wey/R2Vul" target="_blank">Code</a>]
   <span class="pub-note">🔥 One of the top-liked papers in software engineering at [[alphaXiv]](https://www.alphaxiv.org/?subcategories=%5B%22software-engineering%22%5D&sort=Likes).</span>
 
