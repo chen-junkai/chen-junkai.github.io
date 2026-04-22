@@ -55,7 +55,8 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
   <span class="pub-note">🏆 This paper won an ACM SIGSOFT Distinguished Paper Award.</span>
 
 - [**R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation**](https://arxiv.org/abs/2504.04699)<br/>
-  Martin Weyssow, Chengran Yang, <strong>Junkai Chen<span class="corresp">📧</span></strong>, Ratnadira Widyasari, Ting Zhang, Huihui Huang, Huu Hung Nguyen, Yan Naing Tun, Tan Bui, Yikun Li, Ang Han Wei, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.<br/>
+  Martin Weyssow, Chengran Yang, <strong>Junkai Chen</strong>, Ratnadira Widyasari, Ting Zhang, Huihui Huang, Huu Hung Nguyen, Yan Naing Tun, Tan Bui, Yikun Li, Ang Han Wei, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.<br/>
+  <!-- Martin Weyssow, Chengran Yang, <strong>Junkai Chen<span class="corresp">📧</span></strong>, Ratnadira Widyasari, Ting Zhang, Huihui Huang, Huu Hung Nguyen, Yan Naing Tun, Tan Bui, Yikun Li, Ang Han Wei, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.<br/> -->
   <span class="pub-venue">Under review at TOSEM</span> <span class="pub-venue-full">Under review at ACM Transactions on Software Engineering and Methodology</span><br/>
   [<a href="https://arxiv.org/pdf/2504.04699" target="_blank">PDF</a>][<a href="https://github.com/martin-wey/R2Vul" target="_blank">Code</a>]
   <span class="pub-note">🔥 One of the top-liked papers in software engineering at [[alphaXiv]](https://www.alphaxiv.org/?subcategories=%5B%22software-engineering%22%5D&sort=Likes).</span>
