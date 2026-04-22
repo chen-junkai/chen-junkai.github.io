@@ -1,11 +1,12 @@
 ---
 layout: single
 author_profile: true
+title: "Junkai Chen's Homepage"
 ---
 
 # Introduction
 
-I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management University](https://www.smu.edu.sg/), advised by [David Lo](http://www.mysmu.edu/faculty/davidlo/) (ACM, IEEE, and ASE Fellow). I received my master's degree at [Zhejiang University](https://www.zju.edu.cn/english), advised by [Xing Hu](https://xing-hu.github.io/) and [Xin Xia](https://xin-xia.github.io) (ACM Distinguished Member). 
+I am Junkai Chen (**陈**俊凯), a first-yearPh.D. student at [Singapore Management University](https://www.smu.edu.sg/), advised by [David Lo](http://www.mysmu.edu/faculty/davidlo/) (ACM, IEEE, and ASE Fellow). I received my master's degree at [Zhejiang University](https://www.zju.edu.cn/english), advised by [Xing Hu](https://xing-hu.github.io/) and [Xin Xia](https://xin-xia.github.io) (ACM Distinguished Member). 
 
 <!-- So many exciting and interesting \(≧▽≦)/ things are happening in the era of AI (especially Large Language Models)!, where _code_ seems to be a promising path _from uninterpretable output to grounded actions_. I am thrilled to be part of this time, and hope to make meaningful contributions to real world problems, with my research at the intersection of **Software Engineering** and **Artificial Intelligence**.  -->
 
@@ -109,7 +110,7 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
 
 # Services
 ### Program Committee / Journal Reviewer
-- 2026: TOSEM, IST, ICSE (Shadow PC), MSR (Junior PC), DL4C@NeurIPS, EASE (AI Models / Data Track)
+- 2026: TOSEM, IST, ICSE (Shadow PC), MSR (Junior PC), DL4C@NeurIPS, EASE (AI Models / Data Track), Communications AI & Computing
 - 2025: MSR (Junior PC), DL4C@ICLR, LTB@ICPE
 
 ### Others
