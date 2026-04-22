@@ -38,15 +38,15 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
   [<a href="https://arxiv.org/pdf/2403.16437.pdf" target="_blank">PDF</a>][<a href="https://github.com/r-eval/r-eval.github.io" target="_blank">Code</a>][<a href="https://huggingface.co/datasets/JetBrains-Research/REval" target="_blank">Dataset</a>]<br/>
   <span class="pub-note">🔥This work is included in <a href="https://huggingface.co/datasets/JetBrains-Research/REval">[🤗 JetBrains-Research/REval]</a>.</span>
 
-- [**NLPerturbator: Studying the Robustness of Code LLMs to Natural Language Variations**](https://dl.acm.org/doi/10.1145/3745764)<br/>
-  <strong>Junkai Chen<span class="eq-contrib">*</span></strong>, Zhenhao Li<span class="eq-contrib">*</span>, Xing Hu, and Xin Xia.<br/>
-  <span class="pub-venue">TOSEM 2025</span> <span class="pub-venue-full">ACM Transactions on Software Engineering and Methodology</span><br/>
-  [<a href="https://dl.acm.org/doi/abs/10.1145/3745764" target="_blank">PDF</a>][<a href="https://github.com/iCSawyer/NLPerturbator" target="_blank">Code</a>]
-
 - [**Understanding Practitioners' Expectations on Clear Code Review Comments**](https://dl.acm.org/doi/10.1145/3728931)<br/>
   <strong>Junkai Chen<span class="eq-contrib">*</span></strong>, Zhenhao Li<span class="eq-contrib">*</span>, Qiheng Mao, Xing Hu, Kui Liu, and Xin Xia.<br/>
   <span class="pub-venue">ISSTA 2025</span> <span class="pub-venue-full">The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis</span><br/>
   [<a href="https://arxiv.org/pdf/2410.06515" target="_blank">PDF</a>][<a href="https://github.com/iCSawyer/ClearCRC" target="_blank">Code</a>]
+  
+- [**NLPerturbator: Studying the Robustness of Code LLMs to Natural Language Variations**](https://dl.acm.org/doi/10.1145/3745764)<br/>
+  <strong>Junkai Chen<span class="eq-contrib">*</span></strong>, Zhenhao Li<span class="eq-contrib">*</span>, Xing Hu, and Xin Xia.<br/>
+  <span class="pub-venue">TOSEM 2025</span> <span class="pub-venue-full">ACM Transactions on Software Engineering and Methodology</span><br/>
+  [<a href="https://dl.acm.org/doi/abs/10.1145/3745764" target="_blank">PDF</a>][<a href="https://github.com/iCSawyer/NLPerturbator" target="_blank">Code</a>]
 
 - [**Code Search is All You Need? Improving Code Suggestions with Code Search**](https://dl.acm.org/doi/10.1145/3597503.3639085)<br/>
   **Junkai Chen**, Xing Hu, Zhenhao Li, Cuiyun Gao, Xin Xia, and David Lo.<br/>
