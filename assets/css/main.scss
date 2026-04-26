@@ -90,6 +90,10 @@ a {
     &:first-child { padding-top: 0; }
     &:first-child::before { top: 0.62em; }
     &:last-child { border-bottom: none; }
+
+    > a:not(:first-of-type) {
+      font-size: 0.88rem;
+    }
   }
 
   /* Section headings */
@@ -142,7 +146,7 @@ a {
 
   /* Short venue tag (e.g. "ACL 2026 Main") */
   .pub-venue {
-    font-size: 0.88rem;
+    font-size: 0.95rem;
     color: $text-color;
     font-weight: 600;
   }
@@ -195,7 +199,7 @@ a {
   /* Publication special note */
   .pub-note {
     display: block;
-    font-size: 0.88rem;
+    font-size: 0.95rem;
     font-weight: 600;
     color: darkred;
     margin-top: 0.15em;
