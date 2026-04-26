@@ -77,20 +77,21 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
   <span class="pub-venue">ISSTA 2026</span> <span class="pub-venue-full">The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis</span><br/>
   [PDF: TBD][Code: TBD]
 
-- [**AgentSZZ: Teaching the LLM Agent to Play Detective with Bug-Inducing Commits**](https://arxiv.org/abs/2604.02665)<br/>
-  Yunbo Lyu, Jieke Shi, Hong Jin Kang, Ratnadira Widyasari, Junda He, Yuqing Niu, Chengran Yang, **Junkai Chen**, Zhou Yang, Julia Lawall, and David Lo.<br/>
-  <span class="pub-venue">Preprint</span> <span class="pub-venue-full"></span><br/>
-  [<a href="https://arxiv.org/pdf/2604.02665" target="_blank">PDF</a>]
+- [**PenForge: On-the-Fly Expert Agent Construction for Automated Penetration Testing**](https://arxiv.org/abs/2601.06910)<br/>
+  Huihui Huang, Jieke Shi, **Junkai Chen**, Ting Zhang, Yikun Li, Chengran Yang, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.<br/>
+  <span class="pub-venue">ICSE 2026 (NIER)</span> <span class="pub-venue-full">The 48th IEEE/ACM International Conference on Software Engineering, New Ideas and Emerging Results</span><br/>
+  [<a href="https://arxiv.org/pdf/2601.06910" target="_blank">PDF</a>][<a href="https://github.com/huanghuihui0904/PenForge" target="_blank">Code</a>]
 
 - [**SeCuRepair: Semantics-Aligned, Curriculum-Driven, and Reasoning-Enhanced Vulnerability Repair Framework**](https://arxiv.org/abs/2510.01002)<br/>
   Chengran Yang, Ting Zhang, Jinfeng Jiang, Xin Zhou, Haoye Tian, Mingzhe Du, Jieke Shi, **Junkai Chen**, Yikun Li, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.<br/>
   <span class="pub-venue">ACL 2026 Main</span> <span class="pub-venue-full">The 64th Annual Meeting of the Association for Computational Linguistics</span><br/>
   [<a href="https://arxiv.org/pdf/2510.01002" target="_blank">PDF</a>]
 
-- [**PenForge: On-the-Fly Expert Agent Construction for Automated Penetration Testing**](https://arxiv.org/abs/2601.06910)<br/>
-  Huihui Huang, Jieke Shi, **Junkai Chen**, Ting Zhang, Yikun Li, Chengran Yang, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.<br/>
-  <span class="pub-venue">ICSE 2026 (NIER)</span> <span class="pub-venue-full">The 48th IEEE/ACM International Conference on Software Engineering, New Ideas and Emerging Results</span><br/>
-  [<a href="https://arxiv.org/pdf/2601.06910" target="_blank">PDF</a>][<a href="https://github.com/huanghuihui0904/PenForge" target="_blank">Code</a>]
+- [**AgentSZZ: Teaching the LLM Agent to Play Detective with Bug-Inducing Commits**](https://arxiv.org/abs/2604.02665)<br/>
+  Yunbo Lyu, Jieke Shi, Hong Jin Kang, Ratnadira Widyasari, Junda He, Yuqing Niu, Chengran Yang, **Junkai Chen**, Zhou Yang, Julia Lawall, and David Lo.<br/>
+  <span class="pub-venue">Preprint</span> <span class="pub-venue-full"></span><br/>
+  [<a href="https://arxiv.org/pdf/2604.02665" target="_blank">PDF</a>]
+
 
 - [**Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses?**](https://arxiv.org/abs/2507.21817)<br/>
   Yikun Li, Ngoc Tan Bui, Ting Zhang, Chengran Yang, Xin Zhou, Martin Weyssow, Jinfeng Jiang, **Junkai Chen**, Huihui Huang, Huu Hung Nguyen, Chiok Yew Ho, Jie Tan, Ruiyin Li, Yide Yin, Han Wei Ang, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.<br/>
