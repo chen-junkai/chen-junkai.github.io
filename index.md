@@ -44,6 +44,7 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
   <span class="pub-venue">ICSE 2024</span> <span class="pub-venue-full">The 46th IEEE/ACM International Conference on Software Engineering</span><br/>
   [<a href="https://ginolzh.github.io/papers/ICSE2024_Code_Suggestion.pdf" target="_blank">PDF</a>][<a href="https://github.com/iCSawyer/CodeSuggestion" target="_blank">Code</a>]<br/>
   <span class="pub-note">🏆 This paper won an <a href="https://www.sigsoft.org/awards/distinguishedPaperAward.html" target="_blank">[ACM SIGSOFT Distinguished Paper Award]</a>.</span>
+  <!-- acm showcase on kudos??? -->
 
 - [**R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation**](https://arxiv.org/abs/2504.04699)<br/>
   Martin Weyssow, Chengran Yang, <strong>Junkai Chen</strong>, Ratnadira Widyasari, Ting Zhang, Huihui Huang, Huu Hung Nguyen, Yan Naing Tun, Tan Bui, Yikun Li, Ang Han Wei, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.<br/>
@@ -72,10 +73,10 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
   <span class="pub-venue">TOSEM 2025</span> <span class="pub-venue-full">ACM Transactions on Software Engineering and Methodology</span><br/>
   [<a href="https://dl.acm.org/doi/abs/10.1145/3745764" target="_blank">PDF</a>][<a href="https://github.com/iCSawyer/NLPerturbator" target="_blank">Code</a>]
 
-- [**An Empirical Study of Speculative Decoding on Software Engineering Tasks**](https://www.arxiv.org/abs/2509.22097)<br/>
+- [**An Empirical Study of Speculative Decoding on Software Engineering Tasks**](https://www.arxiv.org/abs/2604.26469)<br/>
   Yijia Li, **Junkai Chen**, Xing Hu, and Xin Xia.<br/>
   <span class="pub-venue">ISSTA 2026</span> <span class="pub-venue-full">The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis</span><br/>
-  [PDF: TBD][Code: TBD]
+  [<a href="https://arxiv.org/pdf/2604.26469" target="_blank">PDF</a>]
 
 - [**PenForge: On-the-Fly Expert Agent Construction for Automated Penetration Testing**](https://arxiv.org/abs/2601.06910)<br/>
   Huihui Huang, Jieke Shi, **Junkai Chen**, Ting Zhang, Yikun Li, Chengran Yang, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.<br/>
