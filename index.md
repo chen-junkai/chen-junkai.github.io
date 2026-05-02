@@ -38,7 +38,6 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
   [<a href="https://arxiv.org/pdf/2403.16437.pdf" target="_blank">PDF</a>][<a href="https://github.com/r-eval/r-eval.github.io" target="_blank">Code</a>][<a href="https://huggingface.co/datasets/JetBrains-Research/REval" target="_blank">Dataset</a>]<br/>
   <span class="pub-note">🔥 This work is included in <a href="https://huggingface.co/datasets/JetBrains-Research/REval">[🤗 JetBrains-Research/REval]</a>.</span>
 
-
 - [**Code Search is All You Need? Improving Code Suggestions with Code Search**](https://dl.acm.org/doi/10.1145/3597503.3639085)<br/>
   **Junkai Chen**, Xing Hu, Zhenhao Li, Cuiyun Gao, Xin Xia, and David Lo.<br/>
   <span class="pub-venue">ICSE 2024</span> <span class="pub-venue-full">The 46th IEEE/ACM International Conference on Software Engineering</span><br/>
@@ -59,10 +58,6 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
   [<a href="https://arxiv.org/pdf/2505.08903" target="_blank">PDF</a>][<a href="https://github.com/LLM4SE-Benchmarks/LLM4SE-Benchmarks" target="_blank">Code</a>]<br/>
   <span class="pub-note">🔥 This paper was featured by <a href="https://mp.weixin.qq.com/s/zHVWchAOONC2Y75PvYNDBg">[新智元]</a> (in Chinese).</span>
 
-
-<details class="pub-section" markdown="block">
-  <summary class="section-heading">Other Publications <span class="expand-hint">— click to expand</span></summary>
-
 - [**Understanding Practitioners' Expectations on Clear Code Review Comments**](https://dl.acm.org/doi/10.1145/3728931)<br/>
   <strong>Junkai Chen<span class="eq-contrib">*</span></strong>, Zhenhao Li<span class="eq-contrib">*</span>, Qiheng Mao, Xing Hu, Kui Liu, and Xin Xia.<br/>
   <span class="pub-venue">ISSTA 2025</span> <span class="pub-venue-full">The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis</span><br/>
@@ -72,6 +67,21 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
   <strong>Junkai Chen<span class="eq-contrib">*</span></strong>, Zhenhao Li<span class="eq-contrib">*</span>, Xing Hu, and Xin Xia.<br/>
   <span class="pub-venue">TOSEM 2025</span> <span class="pub-venue-full">ACM Transactions on Software Engineering and Methodology</span><br/>
   [<a href="https://dl.acm.org/doi/abs/10.1145/3745764" target="_blank">PDF</a>][<a href="https://github.com/iCSawyer/NLPerturbator" target="_blank">Code</a>]
+
+
+<details class="pub-section" markdown="block">
+  <summary class="section-heading">Other Publications <span class="expand-hint">— click to expand</span></summary>
+
+- [**Debt Behind the AI Boom: A Large-Scale Empirical Study of AI-Generated Code in the Wild**](https://arxiv.org/abs/2603.28592)<br/>
+  Yue Liu, Ratnadira Widyasari, Yanjie Zhao, Ivana Clairine Irsan, **Junkai Chen**, David Lo
+<br/>
+  <span class="pub-venue">Preprint</span> <span class="pub-venue-full"></span><br/>
+  [<a href="https://arxiv.org/pdf/2603.28592" target="_blank">PDF</a>]
+
+- [**AgentSZZ: Teaching the LLM Agent to Play Detective with Bug-Inducing Commits**](https://arxiv.org/abs/2604.02665)<br/>
+  Yunbo Lyu, Jieke Shi, Hong Jin Kang, Ratnadira Widyasari, Junda He, Yuqing Niu, Chengran Yang, **Junkai Chen**, Zhou Yang, Julia Lawall, and David Lo.<br/>
+  <span class="pub-venue">Preprint</span> <span class="pub-venue-full"></span><br/>
+  [<a href="https://arxiv.org/pdf/2604.02665" target="_blank">PDF</a>]
 
 - [**An Empirical Study of Speculative Decoding on Software Engineering Tasks**](https://www.arxiv.org/abs/2604.26469)<br/>
   Yijia Li, **Junkai Chen**, Xing Hu, and Xin Xia.<br/>
@@ -87,12 +97,6 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
   Chengran Yang, Ting Zhang, Jinfeng Jiang, Xin Zhou, Haoye Tian, Mingzhe Du, Jieke Shi, **Junkai Chen**, Yikun Li, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.<br/>
   <span class="pub-venue">ACL 2026 Main</span> <span class="pub-venue-full">The 64th Annual Meeting of the Association for Computational Linguistics</span><br/>
   [<a href="https://arxiv.org/pdf/2510.01002" target="_blank">PDF</a>]
-
-- [**AgentSZZ: Teaching the LLM Agent to Play Detective with Bug-Inducing Commits**](https://arxiv.org/abs/2604.02665)<br/>
-  Yunbo Lyu, Jieke Shi, Hong Jin Kang, Ratnadira Widyasari, Junda He, Yuqing Niu, Chengran Yang, **Junkai Chen**, Zhou Yang, Julia Lawall, and David Lo.<br/>
-  <span class="pub-venue">Preprint</span> <span class="pub-venue-full"></span><br/>
-  [<a href="https://arxiv.org/pdf/2604.02665" target="_blank">PDF</a>]
-
 
 - [**Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses?**](https://arxiv.org/abs/2507.21817)<br/>
   Yikun Li, Ngoc Tan Bui, Ting Zhang, Chengran Yang, Xin Zhou, Martin Weyssow, Jinfeng Jiang, **Junkai Chen**, Huihui Huang, Huu Hung Nguyen, Chiok Yew Ho, Jie Tan, Ruiyin Li, Yide Yin, Han Wei Ang, Frank Liauw, Eng Lieh Ouh, Lwin Khin Shar, and David Lo.<br/>
