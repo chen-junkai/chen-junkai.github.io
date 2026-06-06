@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SecureVibeBench — Results</title>
+<style>
+  :root {
+    --bg: #0f1419;
+    --panel: #171d26;
+    --panel-2: #1d2531;
+    --border: #2a3441;
+    --text: #e6edf3;
+    --muted: #8b98a9;
+    --sec: #5f8f75;      /* Secure&Correct green */
+    --sec-2: #7ec79f;
+    --func: #4a82c4;     /* Correct blue */
+    --func-2: #7db4ef;
+    --gold: #e8c468;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: radial-gradient(1200px 600px at 50% -10%, #1a2230 0%, var(--bg) 60%);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    padding: 40px 20px 64px;
+  }
+  .wrap { max-width: 880px; margin: 0 auto; }
+  header { text-align: center; margin-bottom: 28px; }
+  h1 {
+    font-size: 28px; margin: 0 0 6px;
+    letter-spacing: -0.02em;
+  }
+  h1 .accent { color: inherit; }
+  .subtitle { color: var(--muted); font-size: 14px; margin: 0; }
+
+  .legend {
+    display: flex; flex-wrap: wrap; gap: 10px 18px;
+    justify-content: center;
+    margin: 18px auto 26px;
+    font-size: 13px; color: var(--muted);
+    max-width: 720px;
+  }
+  .legend .item { display: flex; align-items: center; gap: 8px; }
+  .swatch { width: 13px; height: 13px; border-radius: 3px; flex: none; }
+  .legend b { color: var(--text); font-weight: 600; }
+
+  .card {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    overflow: hidden;
+    box-shadow: 0 18px 40px -20px rgba(0,0,0,0.7);
+  }
+  table { width: 100%; border-collapse: collapse; }
+  thead th {
+    background: var(--panel-2);
+    color: var(--muted);
+    font-size: 12px; font-weight: 600;
+    text-transform: uppercase; letter-spacing: 0.06em;
+    text-align: left;
+    padding: 13px 16px;
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+    position: sticky; top: 0;
+  }
+  thead th.num { text-align: right; }
+  thead th:hover { color: var(--text); }
+  thead th .arrow { opacity: 0.35; font-size: 10px; margin-left: 4px; }
+  thead th.sorted .arrow { opacity: 1; color: var(--sec-2); }
+
+  tbody td {
+    padding: 11px 16px;
+    border-bottom: 1px solid rgba(42,52,65,0.55);
+    font-size: 14px;
+    vertical-align: middle;
+  }
+  tbody tr:last-child td { border-bottom: none; }
+  tbody tr:hover { background: rgba(126,199,159,0.05); }
+
+  .rank {
+    color: var(--muted); font-variant-numeric: tabular-nums;
+    width: 38px; text-align: center; font-weight: 600;
+  }
+  tr:nth-child(1) .rank { color: var(--gold); }
+
+  .agent { font-weight: 600; white-space: nowrap; }
+  .tag {
+    display: inline-block; margin-left: 8px;
+    font-size: 10px; font-weight: 600; letter-spacing: 0.04em;
+    padding: 2px 7px; border-radius: 999px;
+    border: 1px solid var(--border); color: var(--muted);
+    vertical-align: middle; text-transform: uppercase;
+  }
+  .tag.cli { color: var(--func-2); border-color: rgba(125,180,239,0.4); background: rgba(74,130,196,0.12); }
+  .llm { color: var(--muted); white-space: nowrap; }
+
+  td.metric { width: 230px; }
+  .bar-cell { display: flex; align-items: center; gap: 10px; }
+  .bar-track {
+    flex: 1; height: 8px; border-radius: 999px;
+    background: rgba(255,255,255,0.06); overflow: hidden;
+  }
+  .bar-fill { display: block; height: 100%; border-radius: 999px; min-width: 2px; }
+  .bar-fill.sec  { background: linear-gradient(90deg, var(--sec), var(--sec-2)); }
+  .bar-fill.func { background: linear-gradient(90deg, var(--func), var(--func-2)); }
+  .val {
+    font-variant-numeric: tabular-nums; font-weight: 600;
+    width: 52px; text-align: right; flex: none;
+  }
+
+  footer {
+    text-align: center; color: var(--muted); font-size: 12.5px;
+    margin-top: 22px;
+  }
+  footer a { color: var(--sec-2); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+
+  @media (max-width: 560px) {
+    .llm { font-size: 12px; }
+    td.metric { width: 150px; }
+    .val { width: 46px; }
+    body { padding: 24px 10px 48px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>SecureVibe<span class="accent">Bench</span> — Results</h1>
+  </header>
+
+  <div class="legend">
+    <div class="item"><span class="swatch" style="background:linear-gradient(90deg,var(--sec),var(--sec-2))"></span><span><b>Secure&amp;Correct</b> — functionally correct &amp; secure rate</span></div>
+    <div class="item"><span class="swatch" style="background:linear-gradient(90deg,var(--func),var(--func-2))"></span><span><b>Correct</b> — functionally correct rate</span></div>
+  </div>
+
+  <div class="card">
+    <table id="tbl">
+      <thead>
+        <tr>
+          <th class="num" data-key="rank" title="Rank by current sort">#</th>
+          <th data-key="agent">Agent <span class="arrow"></span></th>
+          <th data-key="llm">LLM <span class="arrow"></span></th>
+          <th class="num" data-key="csec">Secure&amp;Correct <span class="arrow"></span></th>
+          <th class="num" data-key="func">Correct <span class="arrow"></span></th>
+        </tr>
+      </thead>
+      <tbody id="body"></tbody>
+    </table>
+  </div>
+
+</div>
+
+<script>
+  const DATA = [
+    { agent: "SWE-agent",   llm: "Claude Sonnet 4.5", csec: 23.8, func: 46.7, cli: false },
+    { agent: "Codex",       llm: "GPT-5",             csec: 19.0, func: 46.7, cli: true  },
+    { agent: "OpenHands",   llm: "Claude Sonnet 4.5", csec: 19.0, func: 43.8, cli: false },
+    { agent: "Claude Code", llm: "Claude Sonnet 4.5", csec: 17.1, func: 48.6, cli: true  },
+    { agent: "SWE-agent",   llm: "GPT-5",             csec: 17.1, func: 37.1, cli: false },
+    { agent: "OpenHands",   llm: "GPT-5",             csec: 17.1, func: 36.2, cli: false },
+    { agent: "SWE-agent",   llm: "Deepseek-V3.1",     csec: 15.2, func: 41.9, cli: false },
+    { agent: "OpenHands",   llm: "Deepseek-V3.1",     csec: 14.3, func: 42.9, cli: false },
+    { agent: "Aider",       llm: "Deepseek-V3.1",     csec: 13.3, func: 22.9, cli: false },
+    { agent: "OpenHands",   llm: "Claude 3.7 Sonnet", csec: 9.5,  func: 39.0, cli: false },
+    { agent: "OpenHands",   llm: "GPT-4.1",           csec: 9.5,  func: 26.7, cli: false },
+    { agent: "SWE-agent",   llm: "Claude 3.7 Sonnet", csec: 8.6,  func: 41.9, cli: false },
+    { agent: "Aider",       llm: "Claude Sonnet 4.5", csec: 8.6,  func: 16.2, cli: false },
+    { agent: "SWE-agent",   llm: "GPT-4.1",           csec: 6.7,  func: 29.5, cli: false },
+    { agent: "Aider",       llm: "GPT-5",             csec: 5.7,  func: 11.4, cli: false },
+    { agent: "Aider",       llm: "Claude 3.7 Sonnet", csec: 3.8,  func: 13.3, cli: false },
+    { agent: "Aider",       llm: "GPT-4.1",           csec: 1.9,  func: 10.5, cli: false },
+  ];
+
+  const body = document.getElementById("body");
+  let sortKey = "csec";
+  let sortDir = -1; // -1 desc, 1 asc
+
+  function compare(a, b) {
+    let av = a[sortKey], bv = b[sortKey];
+    let primary;
+    if (typeof av === "string") primary = av.localeCompare(bv);
+    else primary = av - bv;
+    if (primary !== 0) return primary * sortDir;
+    // stable tie-break: higher Secure&Correct, then higher Correct
+    if (b.csec !== a.csec) return b.csec - a.csec;
+    return b.func - a.func;
+  }
+
+  function render() {
+    const rows = [...DATA].sort(compare);
+    body.innerHTML = rows.map((r, i) => `
+      <tr>
+        <td class="rank">${i + 1}</td>
+        <td class="agent">${r.agent}</td>
+        <td class="llm">${r.llm}</td>
+        <td class="metric">
+          <div class="bar-cell">
+            <span class="bar-track"><span class="bar-fill sec" style="width:${r.csec}%"></span></span>
+            <span class="val">${r.csec.toFixed(1)}%</span>
+          </div>
+        </td>
+        <td class="metric">
+          <div class="bar-cell">
+            <span class="bar-track"><span class="bar-fill func" style="width:${r.func}%"></span></span>
+            <span class="val">${r.func.toFixed(1)}%</span>
+          </div>
+        </td>
+      </tr>
+    `).join("");
+
+    document.querySelectorAll("thead th").forEach(th => {
+      const key = th.dataset.key;
+      const arrow = th.querySelector(".arrow");
+      if (key === sortKey) {
+        th.classList.add("sorted");
+        if (arrow) arrow.textContent = sortDir === -1 ? "▼" : "▲";
+      } else {
+        th.classList.remove("sorted");
+        if (arrow) arrow.textContent = "";
+      }
+    });
+  }
+
+  document.querySelectorAll("thead th").forEach(th => {
+    th.addEventListener("click", () => {
+      const key = th.dataset.key;
+      if (key === "rank") return;
+      if (sortKey === key) {
+        sortDir *= -1;
+      } else {
+        sortKey = key;
+        // numbers default to descending, text to ascending
+        sortDir = (key === "csec" || key === "func") ? -1 : 1;
+      }
+      render();
+    });
+  });
+
+  render();
+</script>
+</body>
+</html>
