@@ -36,7 +36,7 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
   <strong>Junkai Chen<span class="eq-contrib">*</span></strong>, Zhiyuan Pan<span class="eq-contrib">*</span>, Xing Hu, Zhenhao Li, Ge Li, and Xin Xia.<br/>
   <span class="pub-venue">ICSE 2025</span> <span class="pub-venue-full">The 47th IEEE/ACM International Conference on Software Engineering</span><br/>
   [<a href="https://arxiv.org/pdf/2403.16437.pdf" target="_blank">PDF</a>][<a href="https://github.com/r-eval/r-eval.github.io" target="_blank">Code</a>][<a href="https://huggingface.co/datasets/JetBrains-Research/REval" target="_blank">Dataset</a>]<br/>
-  <span class="pub-note">🔥 Listed in <a href="https://jiekeshi.tech/topnotchse/se_ntop100.html" target="_blank">Normalized Top-100 SE Conference Papers of all time</a><br/>Included in <a href="https://huggingface.co/datasets/JetBrains-Research/REval">🤗JetBrains-Research/REval</a>.</span>
+  <span class="pub-note">🔥 Number 60 in<a href="https://jiekeshi.tech/topnotchse/se_ntop100.html" target="_blank">Normalized Top-100 Software Engineering Conference Papers</a> of all time.<br/>🔥 Included in <a href="https://huggingface.co/datasets/JetBrains-Research/REval">🤗JetBrains-Research/REval</a>.</span>
 
 - [**Code Search is All You Need? Improving Code Suggestions with Code Search**](https://dl.acm.org/doi/10.1145/3597503.3639085)<br/>
   **Junkai Chen**, Xing Hu, Zhenhao Li, Cuiyun Gao, Xin Xia, and David Lo.<br/>
