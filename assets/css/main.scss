@@ -203,10 +203,7 @@ a {
     font-weight: 600;
     color: darkred;
     margin-top: 0.15em;
-    a, a:visited, a:hover {
-      color: darkred;
-      text-decoration: underline;
-    }
+    a, a:visited, a:hover { color: darkred; }
   }
 
   /* Collapsible section styled as h1 */
