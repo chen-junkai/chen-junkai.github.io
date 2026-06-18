@@ -17,7 +17,8 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
 
 # News
 
-- <span style="color: darkred; font-weight: bold;">[2026-04-14] [SecureVibeBench](https://github.com/iCSawyer/SecureVibeBench), the first benchmark for secure vibe coding of AI agents, has been released on GitHub and 🤗 Hugging Face!</span>
+- [2026-06-18] One paper was accepted by ASE 2026. 
+- [2026-04-14] [SecureVibeBench](https://github.com/iCSawyer/SecureVibeBench), the first benchmark for secure vibe coding of AI agents, has been released on GitHub and 🤗 Hugging Face!
 - [2026-04-16] One paper was accepted by ISSTA 2026. 
 - [2026-04-07] Two papers were accepted by ACL 2026 Main Conference. 
 - 📌 Check latest SE conference papers at [**SEConfPaperList**](https://github.com/iCSawyer/SEConfPaperList)~.
@@ -31,6 +32,10 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
   <span class="pub-venue">ACL 2026</span> <span class="pub-venue-full">The 64th Annual Meeting of the Association for Computational Linguistics</span><br/>
   [<a href="https://www.arxiv.org/pdf/2509.22097" target="_blank">PDF</a>][<a href="https://github.com/iCSawyer/SecureVibeBench" target="_blank">Code</a>][<a href="https://huggingface.co/datasets/iCSawyer/SecureVibeBench" target="_blank">Dataset</a>]
   <!-- <span class="pub-note">🔥 SecureVibeBench is the first SWE-bench-level benchmark for secure vibe coding.</span> -->
+
+- [**AgentExecutor: Partial Code Execution with Agentic Context Generation**](https://arxiv.org/abs/2606.09641)<br/>
+  <strong>Junkai Chen</strong>, Chengran Yang, Xing Hu, Zhenhao Li, Xin Xia, and David Lo.<br/>
+  <span class="pub-venue">ASE 2026</span> <span class="pub-venue-full">The 41th IEEE/ACM International Conference on Automated Software Engineering</span><br/>
 
 - [**Reasoning Runtime Behavior of a Program with LLM: How Far Are We?**](https://dl.acm.org/doi/10.1109/ICSE55347.2025.00012)<br/>
   <strong>Junkai Chen<span class="eq-contrib">*</span></strong>, Zhiyuan Pan<span class="eq-contrib">*</span>, Xing Hu, Zhenhao Li, Ge Li, and Xin Xia.<br/>
