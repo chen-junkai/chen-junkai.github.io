@@ -33,7 +33,7 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
   [<a href="https://www.arxiv.org/pdf/2509.22097" target="_blank">PDF</a>][<a href="https://github.com/iCSawyer/SecureVibeBench" target="_blank">Code</a>][<a href="https://huggingface.co/datasets/iCSawyer/SecureVibeBench" target="_blank">Dataset</a>]
   <!-- <span class="pub-note">🔥 SecureVibeBench is the first SWE-bench-level benchmark for secure vibe coding.</span> -->
 
-- [**AgentExecutor: Partial Code Execution with Agentic Context Generation**](https://arxiv.org/abs/2606.09641)<br/>
+- [**AgentExecutor: Partial Code Execution via Agentic Context Generation**](https://arxiv.org/abs/2606.09641)<br/>
   <strong>Junkai Chen</strong>, Chengran Yang, Xing Hu, Zhenhao Li, Xin Xia, and David Lo.<br/>
   <span class="pub-venue">ASE 2026</span> <span class="pub-venue-full">The 41th IEEE/ACM International Conference on Automated Software Engineering</span><br/>
 
