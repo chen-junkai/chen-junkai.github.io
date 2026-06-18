@@ -28,7 +28,7 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
 
 - [**SecureVibeBench: Benchmarking Secure Vibe Coding of AI Agents via Reconstructing Vulnerability-Introducing Scenarios**](https://www.arxiv.org/abs/2509.22097)<br/>
   <strong>Junkai Chen<span class="eq-contrib">*</span></strong>, Huihui Huang<span class="eq-contrib">*</span>, Yunbo Lyu, Junwen An, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, Xin Zhou, Xing Hu, and David Lo.<br/>
-  <span class="pub-venue">ACL 2026 Main</span> <span class="pub-venue-full">The 64th Annual Meeting of the Association for Computational Linguistics</span><br/>
+  <span class="pub-venue">ACL 2026</span> <span class="pub-venue-full">The 64th Annual Meeting of the Association for Computational Linguistics</span><br/>
   [<a href="https://www.arxiv.org/pdf/2509.22097" target="_blank">PDF</a>][<a href="https://github.com/iCSawyer/SecureVibeBench" target="_blank">Code</a>][<a href="https://huggingface.co/datasets/iCSawyer/SecureVibeBench" target="_blank">Dataset</a>]
   <!-- <span class="pub-note">🔥 SecureVibeBench is the first SWE-bench-level benchmark for secure vibe coding.</span> -->
 
@@ -36,7 +36,7 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
   <strong>Junkai Chen<span class="eq-contrib">*</span></strong>, Zhiyuan Pan<span class="eq-contrib">*</span>, Xing Hu, Zhenhao Li, Ge Li, and Xin Xia.<br/>
   <span class="pub-venue">ICSE 2025</span> <span class="pub-venue-full">The 47th IEEE/ACM International Conference on Software Engineering</span><br/>
   [<a href="https://arxiv.org/pdf/2403.16437.pdf" target="_blank">PDF</a>][<a href="https://github.com/r-eval/r-eval.github.io" target="_blank">Code</a>][<a href="https://huggingface.co/datasets/JetBrains-Research/REval" target="_blank">Dataset</a>]<br/>
-  <span class="pub-note">🔥 Listed in the <a href="https://jiekeshi.tech/topnotchse/se_ntop100.html" target="_blank">[Normalized Top-100 SE Conference Papers of all time]</a>; Included in <a href="https://huggingface.co/datasets/JetBrains-Research/REval">[🤗 JetBrains-Research/REval]</a>.</span>
+  <span class="pub-note">🔥 Listed in <a href="https://jiekeshi.tech/topnotchse/se_ntop100.html" target="_blank">Normalized Top-100 SE Conference Papers of all time</a><br/>Included in <a href="https://huggingface.co/datasets/JetBrains-Research/REval">🤗JetBrains-Research/REval</a>.</span>
 
 - [**Code Search is All You Need? Improving Code Suggestions with Code Search**](https://dl.acm.org/doi/10.1145/3597503.3639085)<br/>
   **Junkai Chen**, Xing Hu, Zhenhao Li, Cuiyun Gao, Xin Xia, and David Lo.<br/>
