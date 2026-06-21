@@ -17,10 +17,9 @@ I am Junkai Chen (**陈**俊凯), a Ph.D. student at [Singapore Management Unive
 
 # News
 
-- [2026-06-18] AgentExecutor was accepted by ASE 2026. 
-- [2026-04-14] [SecureVibeBench](https://github.com/iCSawyer/SecureVibeBench), the first benchmark for secure vibe coding of AI agents, has been released on GitHub and 🤗 Hugging Face!
-- [2026-04-16] One paper was accepted by ISSTA 2026. 
-- [2026-04-07] Two papers were accepted by ACL 2026 Main Conference. 
+- **[2026-06-18] Our paper about agentic partial execution was accepted by ASE 2026.**
+- [2026-04-16] Our paper about speculative decoding was accepted by ISSTA 2026. 
+- [2026-04-07] Two papers about AI and cybersecurity were accepted by ACL 2026.
 - 📌 Check latest SE conference papers at [**SEConfPaperList**](https://github.com/iCSawyer/SEConfPaperList)~.
 
 ***
